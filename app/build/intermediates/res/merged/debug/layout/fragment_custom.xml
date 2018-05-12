@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/custom_img"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_32dp"
+                android:layout_marginTop="@dimen/dimen_40dp"
+                android:lineSpacingExtra="4dp"
+                android:text="选择常用功能\n放入逻辑魔盘\n长按再次进入"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="16dp"
+                android:src="@mipmap/custom_log_img" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/show_other_ly1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/show_other_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:src="@mipmap/custom_big_img" />
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/show_other_ly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/show_other_ly1"
+            android:layout_marginTop="@dimen/dimen_40dp"
+            android:horizontalSpacing="@dimen/dimen_16dp"
+            android:numColumns="4"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_8dp"
+            android:verticalSpacing="@dimen/dimen_16dp">
+
+        </GridView>
+    </RelativeLayout>
+</LinearLayout>

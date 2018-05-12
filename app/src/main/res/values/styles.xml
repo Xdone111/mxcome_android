@@ -1,0 +1,158 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorGrey</item>
+        <item name="colorPrimaryDark">@color/colorGrey</item>
+        <item name="colorAccent">@color/colorGrey</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!-- TabPagerIndicator样式 -->
+    <style name="StyledIndicators" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@color/white</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@color/tab_text_color</item>
+        <item name="android:textSize">@dimen/font_16sp</item>
+        <item name="android:dividerPadding">@dimen/dimen_10dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">@dimen/dimen_10dp</item>
+        <item name="android:paddingRight">@dimen/dimen_10dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">@dimen/dimen_10dp</item>
+    </style>
+
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <!-- Button样式 -->
+    <style name="CornerBtnNormal" parent="@android:style/Widget.Button.Small">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font_18sp</item>
+        <item name="android:background">@drawable/corner_normal_selector</item>
+    </style>
+
+    <style name="CornerPrimary" parent="@android:style/Widget.Button.Small">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_18sp</item>
+        <item name="android:background">@drawable/corner_primary_selector</item>
+    </style>
+
+
+    <!-- Button样式 -->
+    <style name="RectBtnNormal" parent="@android:style/Widget.Button.Small">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font_18sp</item>
+        <item name="android:background">@drawable/rect_normal_selector</item>
+    </style>
+
+    <style name="RectBtnPrimary" parent="@android:style/Widget.Button.Small">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_16sp</item>
+        <item name="android:background">@drawable/rect_primary_selector</item>
+    </style>
+
+    <!-- TextButton样式 -->
+    <style name="TextButtonBg" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font_14sp</item>
+        <item name="android:paddingLeft">@dimen/dimen_6dp</item>
+        <item name="android:paddingRight">@dimen/dimen_6dp</item>
+        <item name="android:paddingTop">@dimen/dimen_2dp</item>
+        <item name="android:paddingBottom">@dimen/dimen_2dp</item>
+        <item name="android:background">@drawable/rect_normal_selector</item>
+    </style>
+
+    <style name="TextButtonBg2" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font_14sp</item>
+        <item name="android:paddingLeft">@dimen/dimen_6dp</item>
+        <item name="android:paddingRight">@dimen/dimen_6dp</item>
+        <item name="android:paddingTop">@dimen/dimen_8dp</item>
+        <item name="android:paddingBottom">@dimen/dimen_8dp</item>
+        <item name="android:background">@drawable/rect_normal_selector</item>
+    </style>
+
+    <style name="TextButtonBg1" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font_13sp</item>
+        <item name="android:paddingLeft">@dimen/dimen_6dp</item>
+        <item name="android:paddingRight">@dimen/dimen_6dp</item>
+        <item name="android:paddingTop">@dimen/dimen_1dp</item>
+        <item name="android:paddingBottom">@dimen/dimen_1dp</item>
+        <item name="android:background">@drawable/rect_normal_selector</item>
+    </style>
+    <!-- 时间选择对话框样式 -->
+    <style name="DatePickerDialog" parent="@android:style/Theme.Holo.Light.Dialog.MinWidth">
+        <item name="android:windowBackground">@color/trans</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+
+
+    <!-- 透明背景 -->
+    <style name="TransDialog" parent="@style/CommonDialog">
+        <item name="android:windowBackground"> @android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="smallRatingBar" parent="@android:style/Widget.Holo.RatingBar.Small">
+        <item name="android:progressDrawable">@drawable/ratingbar_yellow_bg</item>
+    </style>
+    <style name="MyRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/food_rating_bar_full</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+    </style>
+    <style name="MyRatingBarG" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/food_rating_bar_full_g</item>
+        <item name="android:minHeight">24dp</item>
+        <item name="android:maxHeight">24dp</item>
+    </style>
+    <style name="MyRatingBarG1" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/food_rating_bar_full_g</item>
+        <item name="android:minHeight">14dp</item>
+        <item name="android:maxHeight">14dp</item>
+    </style>
+    <style name="MyRatingBarG2" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/food_rating_bar_full_zuan</item>
+        <item name="android:minHeight">14dp</item>
+        <item name="android:maxHeight">14dp</item>
+    </style>
+    <style name="MyRatingBar_Idf" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/food_rating_bar_full_idf</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+    </style>
+   <style name="dialogAnim" parent="android:Animation">
+    <item name="android:windowEnterAnimation">@anim/dialog_push_in</item>
+    <item name="android:windowExitAnimation">@anim/dialog_push_out</item>
+    </style>
+    <declare-styleable name="RotateTextView">
+        <attr name="degree" format="dimension" />
+    </declare-styleable>
+
+    <style name="Widget.SeekBar.Normal" parent="@android:style/Widget.SeekBar">
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/seekbarbackground</item>
+        <item name="android:minHeight">4.0dip</item>
+        <item name="android:thumb">@drawable/thumb</item>
+        <item name="android:thumbOffset">10.0dip</item>
+    </style>
+</resources>

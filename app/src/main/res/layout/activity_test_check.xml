@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_light_grey"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_16dp"
+        android:background="@drawable/corner_btn_normal_faq"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_8dp">
+
+        <TextView
+            android:id="@+id/show_more"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:padding="@dimen/dimen_8dp"
+            android:text="加载更多"
+            android:textColor="@color/black" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1px"
+            android:background="@drawable/line" />
+
+        <TextView
+            android:id="@+id/des_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="2dp"
+            android:padding="@dimen/dimen_8dp"
+            android:text="《此间的少年》讲述的是让人熟悉的大学生活的故事。小说以宋代嘉佑年为时间背景，地点在以北大为模版的“汴京大学”，登场的人物是乔峰、郭靖、令狐冲等大侠，不过在大学里，他们和当代的年轻人没有什么不同。他们早上要跑圈儿，初进校门的时候要扫舞盲，有睡不完的懒觉，站在远处默默注视自己心爱的姑娘……"
+            android:textColor="@color/colorGrey" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1px"
+            android:layout_marginLeft="@dimen/dimen_8dp"
+            android:layout_marginRight="@dimen/dimen_8dp"
+            android:background="@drawable/line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dimen_8dp"
+                android:text="是否合格："
+                android:textColor="@color/colorGrey" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/yes_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:drawableLeft="@mipmap/youyong_img"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:gravity="center_vertical"
+                    android:text="合格"
+
+                    android:textColor="@color/colorGrey" />
+
+                <TextView
+                    android:id="@+id/no_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:drawableLeft="@mipmap/meiyong_def"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:gravity="center_vertical"
+
+                    android:text="不合格"
+
+                    android:textColor="@color/colorGrey" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_2"
+        android:visibility="gone"
+        android:layout_below="@id/layout_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_16dp"
+        android:background="@drawable/corner_btn_normal_faq"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_8dp">
+        <Spinner
+            android:id="@+id/yuanyin_tv"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"></Spinner>
+        <EditText
+            android:id="@+id/edit_tv"
+            android:hint="请输入不合格原因或者备注"
+            android:layout_width="match_parent"
+            android:gravity="left|top"
+            android:padding="8dp"
+            android:background="@color/trans"
+            android:layout_height="100dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:layout_height="48dp">
+        <TextView
+            android:id="@+id/last_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            android:text="上一项"
+
+            android:textColor="@color/colorGrey" />
+        <TextView
+            android:id="@+id/next_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            android:text="下一项"
+
+            android:textColor="@color/colorGrey" />
+    </LinearLayout>
+</RelativeLayout>

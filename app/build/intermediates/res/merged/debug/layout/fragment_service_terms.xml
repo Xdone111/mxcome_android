@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey_bg"
+        android:gravity="center"
+        android:padding="@dimen/dimen_15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MXCOME服务条款"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_30dp"
+        android:text="一、免费条款"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginRight="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:lineSpacingExtra="@dimen/dimen_2dp"
+        android:text="@string/terms1"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_11sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginRight="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:lineSpacingExtra="@dimen/dimen_2dp"
+        android:text="@string/terms2"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_11sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginRight="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:lineSpacingExtra="@dimen/dimen_2dp"
+        android:text="@string/terms3"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_11sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginRight="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:lineSpacingExtra="@dimen/dimen_2dp"
+        android:text="@string/terms4"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_11sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_12dp"
+        android:layout_marginRight="@dimen/dimen_12dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:lineSpacingExtra="@dimen/dimen_2dp"
+        android:text="@string/terms5"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_11sp" />
+
+
+</LinearLayout>

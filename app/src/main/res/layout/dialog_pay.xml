@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_layout"
+        android:background="@drawable/dialog_corner_top_white"
+        android:gravity="center"
+        android:padding="@dimen/dimen_12dp"
+        android:text="@string/project_choice_downpay_type"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_16sp" />
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:divider="@drawable/line"
+        android:dividerPadding="@dimen/dimen_16dp"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/dimen_14dp"
+        android:showDividers="middle">
+
+        <com.zss.library.widget.CommonTextWidget
+            android:id="@+id/listRow1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:left_image="@mipmap/pay_me_bao"
+            app:left_text="@string/project_me_bao"
+            app:right_image="@null"
+            app:summary_text="@string/project_able_balance" />
+
+        <com.zss.library.widget.CommonTextWidget
+            android:id="@+id/listRow2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:left_image="@mipmap/pay_account_balance"
+            app:left_text="@string/project_account_balance"
+            app:right_image="@null"
+            app:summary_text="@string/project_able_balance" />
+
+        <com.zss.library.widget.CommonTextWidget
+            android:id="@+id/listRow3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:left_image="@mipmap/pay_alipay"
+            app:left_text="@string/project_alipay"
+            app:summary_text="@string/project_alipay_desc" />
+
+        <com.zss.library.widget.CommonTextWidget
+            android:id="@+id/listRow4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:left_image="@mipmap/pay_wechat"
+            app:left_text="@string/project_wechat"
+            app:right_image="@null"
+            app:summary_text="@string/project_wechat_desc" />
+
+    </LinearLayout>
+
+</LinearLayout>

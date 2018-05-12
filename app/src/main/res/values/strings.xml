@@ -1,0 +1,316 @@
+<resources>
+    <string name="app_name">万美和装修</string>
+
+    <string name="common_choice_data">选择时间</string>
+    <string name="common_more">更多</string>
+
+    <string name="main_title">万美和装修</string>
+    <string name="project_title">工程管理中心</string>
+    <string name="msg_title">消息中心</string>
+    <string name="ransfer_title">传递中心</string>
+    <string name="me_title">ME</string>
+
+    <string name="me_login">登&#160;&#160;录</string>
+    <string name="me_register">注册</string>
+    <string name="me_confirm">确&#160;&#160;定</string>
+    <string name="me_forget_pwd">忘记密码</string>
+    <string name="me_provision">MXCOME 服务条款</string>
+
+    <string name="login_user">请输入注册手机号</string>
+    <string name="login_pwd">请输入密码</string>
+    <string name="login_new_pwd">请输入新密码</string>
+    <string name="login_vcode">请输入验证码</string>
+    <string name="login_name">请输入昵称</string>
+
+    <string name="forget_pwd_and_login">修改密码并登录</string>
+
+    <string name="reset">重置</string>
+    <string name="next">下一步</string>
+
+    <string name="main_nav1">案例</string>
+    <string name="main_nav2">活动</string>
+    <string name="main_nav3">服务中心</string>
+    <string name="main_nav4">商城</string>
+    <string name="main_nav5">优惠</string>
+    <string name="main_start">开始</string>
+    <string name="main_design_circle">设计圈</string>
+    <string name="main_worker_circle">工人圈</string>
+    <string name="main_act_circle">活动</string>
+
+    <string name="main_gradienter_title">水平仪</string>
+    <string name="main_gradienter_tips">请将手机保持水平放置，确保水平精确度</string>
+    <string name="main_gradienter_h">水平</string>
+    <string name="main_gradienter_v">垂直</string>
+
+    <string name="project_choice">选择工程</string>
+    <string name="project_house_info">录入房屋信息</string>
+    <string name="project_now_create">立即发布</string>
+    <string name="project_choice_tips">提示：请业主确认需要进行施工的工程，点击立即新建。</string>
+    <string name="project_choice_tips2">每一项新工程新建都将为您带来信用等级的提升。</string>
+
+    <string name="project_nav1">服务流程</string>
+    <string name="project_nav2">新建工程</string>
+    <string name="project_nav3">售后保障</string>
+
+    <string name="project_demand_choice">需求选择</string>
+    <string name="project_whole">整体装修</string>
+    <string name="project_module">模块装修</string>
+
+    <string name="project_commodity">商品房装修</string>
+    <string name="project_villa">别墅装修</string>
+    <string name="project_scehme">方案选择</string>
+
+    <string name="project_module1">客厅</string>
+    <string name="project_module2">浴室</string>
+    <string name="project_module3">厨房</string>
+    <string name="project_module4">影音室</string>
+    <string name="project_module5">阳光房</string>
+    <string name="project_module6">卧室</string>
+    <string name="project_module7">书房</string>
+    <string name="project_module8">儿童房</string>
+
+    <string name="project_price1">奢</string>
+    <string name="project_price2">豪</string>
+    <string name="project_price3">舒</string>
+    <string name="project_price4">简</string>
+    <string name="project_budget">预算</string>
+    <string name="project_pack">套餐</string>
+    <string name="project_check_time">施工时间</string>
+    <string name="project_choice_downpay_type">选择付款方式</string>
+    <string name="project_me_bao">ME宝</string>
+    <string name="project_able_balance">可用余额：%s</string>
+    <string name="project_account_balance">账户余额</string>
+    <string name="project_alipay">支付宝</string>
+    <string name="project_alipay_desc">使用支付宝账户支付</string>
+    <string name="project_wechat">微信</string>
+    <string name="project_wechat_desc">使用微信零钱支付</string>
+
+    <string name="project_pay_suc_tips">您的订单已确认并支付定金，平台专员将于24小时内与您取得联系，并在约定时间内到贵府拜访，我们将竭诚提供优质的服务。</string>
+    <string name="project_pay_suc_step1">免费上门量房</string>
+    <string name="project_pay_suc_step2">线下签订正式合约</string>
+    <string name="project_pay_suc_step3">三分钟包教会使用</string>
+    <string name="project_pay_suc_details">详情</string>
+    <string name="project_share_red_packet">分享领红包</string>
+    <string name="project_share_rule_tips">推荐好友新建工程订单成功互得500元装修补贴</string>
+    <string name="project_share_rule">规则</string>
+
+    <string name="project_input_info">录入信息</string>
+    <string name="project_base_info1">基本信息</string>
+    <string name="project_loca_info2">地区信息</string>
+    <string name="project_loca_info3">楼盘信息</string>
+    <string name="project_loca_info4">房屋信息</string>
+
+    <string name="project_phone">手机号码</string>
+    <string name="project_name">请输入昵称</string>
+    <string name="project_street">街道信息</string>
+    <string name="project_floor">楼盘信息</string>
+    <string name="project_floor_name">楼盘名称</string>
+    <string name="project_room_area">室内面积</string>
+    <string name="project_garden_area">花园面积</string>
+    <string name="project_man">男</string>
+    <string name="project_woman">女</string>
+
+    <string name="project_country">国家</string>
+    <string name="project_region">省/市/区</string>
+
+    <string name="project_floor_info1">栋号</string>
+    <string name="project_floor_info2">单元</string>
+    <string name="project_floor_info3">楼层</string>
+    <string name="project_floor_info4">门牌</string>
+
+    <string name="project_house_info1">室</string>
+    <string name="project_house_info2">厅</string>
+    <string name="project_house_info3">厨</string>
+    <string name="project_house_info4">卫</string>
+
+    <string name="project_scheme1">轻包</string>
+    <string name="project_scheme2">半包</string>
+    <string name="project_scheme3">全包</string>
+
+    <string name="project_scehdu_system">工程排班系统</string>
+
+    <string name="project_schedu_head1">流程模块</string>
+    <string name="project_schedu_head2">配置人员</string>
+    <string name="project_schedu_head3">选择材料</string>
+    <string name="project_schedu_head4">方案服务</string>
+
+    <string name="project_mxcome_recommend">官方推荐</string>
+    <string name="project_all_recommend">全官方</string>
+    <string name="project_authority">官方</string>
+    <string name="project_schedu_worker1">设计</string>
+    <string name="project_schedu_worker2">拆改</string>
+    <string name="project_schedu_worker3">水电</string>
+    <string name="project_schedu_worker4">泥工</string>
+    <string name="project_schedu_worker5">木工</string>
+    <string name="project_schedu_worker6">油漆</string>
+    <string name="project_schedu_worker7">地板</string>
+
+    <string name="project_schedu_material1">主材包</string>
+    <string name="project_schedu_material2">吊顶包</string>
+    <string name="project_schedu_material3">背景包</string>
+    <string name="project_schedu_material4">软配包</string>
+    <string name="project_schedu_material5">家具包</string>
+    <string name="project_schedu_material6">铺贴包</string>
+    <string name="project_schedu_material7">智能包</string>
+
+    <string name="project_schedu_choice">官方服务%1$d项 用户选人%2$d项 用户选材%3$d项</string>
+    <string name="project_schedu_tips">系统根据排单结果自动生成工程计划施工流程</string>
+
+    <string name="project_choice_style">选择设计风格</string>
+    <string name="project_radioTop">简约</string>
+    <string name="project_radioCenter">中式</string>
+    <string name="project_radioBottom">日式</string>
+    <string name="project_radioTopLeft">现代</string>
+    <string name="project_radioBottomLeft">新古典</string>
+    <string name="project_radioTopRight">欧式</string>
+    <string name="project_radioBottomRight">宜家</string>
+
+    <string name="project_radioTop1">混搭</string>
+    <string name="project_radioCenter1">北欧</string>
+    <string name="project_radioBottom1">东南亚</string>
+    <string name="project_radioTopLeft1">田园</string>
+    <string name="project_radioBottomLeft1">简欧</string>
+    <string name="project_radioTopRight1">美式</string>
+    <string name="project_radioBottomRight1">地中海</string>
+
+    <string name="project_pay_downpay">支付定金</string>
+    <string name="project_downpay">服务定金</string>
+    <string name="project_order_details">工程订单详情</string>
+    <string name="project_comfirm_pay_downpay">确认支付定金</string>
+    <string name="project_timeout">剩余 %s 此订单关闭</string>
+    <string name="project_discount_amt">优惠金额</string>
+    <string name="project_total_amt">工程总款</string>
+    <string name="project_order_no">订单号：%s</string>
+
+    <string name="project_detail">工程详情</string>
+    <string name="project_total_progress">工程总进度</string>
+    <string name="project_pay_amt">已支付\n¥%s</string>
+    <string name="project_official">官方</string>
+    <string name="project_cart">采购补货</string>
+    <string name="project_dlist">物料清单</string>
+    <string name="project_days">工期进行</string>
+    <string name="project_video">工期监控</string>
+    <string name="project_contact_worker">联系施工方</string>
+    <string name="project_contact_we">联系MXCOME</string>
+    <string name="project_designer1">设计方案</string>
+    <string name="project_designer2">施工图纸</string>
+    <string name="project_designer3">虚拟模型</string>
+    <string name="project_step">STEP%s</string>
+    <string name="project_time">时间</string>
+    <string name="project_total_price">总价</string>
+    <string name="project_work_time">工时</string>
+    <string name="project_total_step">步骤</string>
+    <string name="project_build_image">施工图片</string>
+    <string name="project_build_before">施工前</string>
+    <string name="project_building">施工中</string>
+    <string name="project_build_after">施工后</string>
+    <string name="project_finish">已完成</string>
+    <string name="project_verfiy">已验证</string>
+    <string name="project_pause">暂停</string>
+
+    <string name="ransfer_item1">装&#160;&#160;修\n知&#160;&#160;识</string>
+    <string name="ransfer_item2">施&#160;&#160;工\n字&#160;&#160;典</string>
+    <string name="ransfer_item3">装&#160;&#160;修\n咨&#160;&#160;询</string>
+    <string name="ransfer_item4">居&#160;&#160;家\n风&#160;&#160;水</string>
+
+    <string name="designer_title">梦想托设计</string>
+    <string name="worker_title">工人筑世界</string>
+    <string name="worker_level">综合评级</string>
+    <string name="worker_order_cnt">接单量</string>
+    <string name="worker_shield">装修盾保障</string>
+    <string name="worker_browse">已浏览咨询</string>
+    <string name="worker_desc">工人师傅介绍</string>
+    <string name="worker_service_content">服务内容</string>
+    <string name="worker_client_say">客户印象</string>
+    <string name="worker_comment">好评%1$s中评%2$s差评%3$s</string>
+    <string name="worker_comment_total">%s人评论</string>
+    <string name="worker_project_show">项目展示</string>
+    <string name="worker_project_image_cnt">%d张图片</string>
+
+    <string name="designer_classify1">筛选</string>
+    <string name="designer_classify2">地区</string>
+    <string name="designer_classify3">技能</string>
+    <string name="designer_classify4">热度</string>
+    <string name="designer_classify5">排序</string>
+
+    <string name="demand_title">发布需求</string>
+    <string name="demand_classify1">筛选</string>
+    <string name="demand_classify2">地区</string>
+    <string name="demand_classify3">距离</string>
+    <string name="demand_classify4">热度</string>
+    <string name="demand_tips">装修盾全程保障，安全无忧。</string>
+
+    <string name="demand_item1">拆改</string>
+    <string name="demand_item2">水电</string>
+    <string name="demand_item3">泥工</string>
+    <string name="demand_item4">木工</string>
+    <string name="demand_item5">油漆</string>
+    <string name="demand_item6">地板</string>
+    <string name="demand_item7">防水</string>
+
+
+    <string name="demand_now_order">立刻下单</string>
+
+    <string name="msg_chat_set">聊天设置</string>
+    <string name="msg_chat_delete">删除好友</string>
+    <string name="msg_chat_top">聊天置顶</string>
+    <string name="msg_chat_flag">标不合适</string>
+    <string name="msg_chat_record">聊天记录</string>
+    <string name="msg_chat_file">聊天文件</string>
+    <string name="msg_chat_bg">聊天背景</string>
+    <string name="msg_chat_greet">聊天招呼</string>
+    <string name="msg_chat_special">特别关注</string>
+    <string name="msg_chat_blacklist">加入黑名单</string>
+    <string name="msg_chat_report">举报对方</string>
+
+    <string name="share_mx_friend">MX好友</string>
+    <string name="share_weixin">微信好友</string>
+    <string name="share_qq">QQ好友</string>
+    <string name="share_weixin_circle">微信朋友圈</string>
+    <string name="share_sina">新浪微博</string>
+    <string name="share_qq_space">QQ空间</string>
+
+    <string name="tips_reg_success">注册成功</string>
+    <string name="tips_nick_name">请输入您的昵称</string>
+    <string name="tips_phone">请输入手机号码</string>
+    <string name="tips_ok_phone">请输入正确手机号码</string>
+    <string name="tips_name">请输入真实姓名</string>
+    <string name="tips_room_area">请输入室内面积</string>
+    <string name="tips_street_name">请输入街道信息</string>
+    <string name="tips_floor_name">请输入楼盘名称</string>
+    <string name="tips_project_region">请输入省/市/区</string>
+    <string name="tips_vcode">请输入验证码</string>
+    <string name="tips_pwd">请输入密码</string>
+    <string name="tips_pwd_length">密码长度不足6位</string>
+    <string name="tips_floor1">请输入栋号</string>
+    <string name="tips_floor2">请输入单元</string>
+    <string name="tips_floor3">请输入楼号</string>
+    <string name="tips_floor4">请输入门牌</string>
+    <string name="tips_connect_server_timeout">连接服务器超时</string>
+
+    <string name="tips_dec_style">请选择风格</string>
+    <string name="tips_date_time">请输入时间</string>
+    <string name="tips_plan_id">请选择套餐</string>
+
+    <!--徐辉祥定义开始-->
+    <string name="past_txt">往期</string>
+    <string name="service_comment_txt">服务态度</string>
+    <string name="construction_quality_txt">工作质量</string>
+    <string name="completion_degree_txt">按时完成</string>
+    <string name="submit_succ_txt">提交成功</string>
+    <string name="submit_fail_txt">提交失败</string>
+
+    <string name="hp_txt">好评</string>
+    <string name="zp_txt">中评</string>
+    <string name="cp_txt">差评</string>
+    <string name="design_number_txt">今日<font color='#FF0000'>%d</font>申请</string>
+    <string name="design_number_wait_txt">还剩<font color='#FF0000'>%d</font>个名额</string>
+    <string name="no_porgect_new_toast_txt">提示：用户填录的信息仅作为平台服务使用。便于客服及专员为您提供优质服务；基于法律法规，MXCOME将不会向任何第三方泄密您的隐私信息，敬请放心。</string>
+    <string name="no_porgect_new_toast_txt1">每新建一次工程，都将提升信用等级</string>
+    <string name="about_fenazola_txt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;FENAZOLA（风正创元）是一家社会型科技企业，自主研发的互联网智能装修引擎，将革命性改变中国装修行业。
+        未来专注于大数据、云计算、人工智能、付费广告等技术领域，开发并提供大量基于物联网的产品，我们竭诚为客户提供最优质的服务，
+        公司主要利润来自于MXCOME装修平台及付费广告。\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+        公司由创始人万江先生于2016年7月11日在长沙创建。MXCOME（万美和）共享装修项目于2017年7月正式上线运营。</string>
+
+    <!--徐辉祥定义结束-->
+</resources>

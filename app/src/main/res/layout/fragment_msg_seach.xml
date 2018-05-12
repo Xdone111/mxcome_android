@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_52dp"
+        android:background="@color/colorBlue"
+        android:orientation="horizontal"
+        android:padding="@dimen/dimen_4dp">
+
+        <ImageView
+            android:id="@+id/back_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@mipmap/back_img_w" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dimen_35dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_weight="1"
+            android:background="@drawable/line_bg_w"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:gravity="center"
+                android:src="@mipmap/msg_search" />
+
+            <EditText
+                android:id="@+id/show_edit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/trans"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:textColor="@color/colorGrey"
+                android:textColorHint="@color/msg_light_grey"
+                android:hint="请输入您要搜索的内容或关键字"
+                android:gravity="center"
+                android:textSize="@dimen/font_14sp" />
+
+            <ImageView
+                android:id="@+id/cancel_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:gravity="center"
+                android:src="@mipmap/msg_seach_ok_w" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/msg_grey_bg"
+        android:paddingBottom="@dimen/dimen_15dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/font_14sp"
+            android:layout_marginTop="@dimen/dimen_15dp"
+            android:textColor="@color/colorGrey"
+            android:text="在这里您可以搜索到"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/dimen_15dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/dimen_15dp"
+                android:textColor="@color/colorGrey"
+                android:layout_weight="1"
+                android:textSize="@dimen/font_13sp"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:drawableTop="@mipmap/seach_friend_msg"
+                android:text="我的好友"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/dimen_15dp"
+                android:textColor="@color/colorGrey"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:textSize="@dimen/font_13sp"
+
+                android:drawableTop="@mipmap/seach_group_msg"
+                android:text="群聊记录"/>
+            <TextView
+                android:id="@+id/tab_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/dimen_15dp"
+                android:textColor="@color/colorGrey"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:textSize="@dimen/font_13sp"
+
+                android:drawableTop="@mipmap/seach_info_msg"
+                android:text="聊天记录"/>
+            <TextView
+                android:id="@+id/end_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/dimen_15dp"
+                android:textColor="@color/colorGrey"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:textSize="@dimen/font_13sp"
+                android:drawableTop="@mipmap/seach_ago_msg"
+                android:text="已咨询过"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/is_ok"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:visibility="gone"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_35dp"
+            android:gravity="center"
+            android:textSize="@dimen/font_14sp"
+            android:background="@color/white"
+            android:textColor="@color/colorGrey"
+            android:text="搜索历史记录"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1px"
+            android:background="@drawable/line"/>
+        <ListView
+            android:id="@+id/show_lv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            android:divider="@drawable/line">
+
+        </ListView>
+        <TextView
+            android:id="@+id/canel_list_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/dimen_8dp"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_14sp"
+            android:text="清空历史记录"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/is_no_msg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:background="@color/white"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_marginTop="120dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/msg_seach_no_find"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_30dp"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:text="搜索内容去火星了…"/>
+    </LinearLayout>
+
+</LinearLayout>

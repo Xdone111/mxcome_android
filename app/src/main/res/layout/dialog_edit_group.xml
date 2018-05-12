@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_marginLeft="@dimen/dimen_20dp"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        android:layout_width="match_parent"
+        android:textSize="@dimen/font_14sp"
+        android:textCursorDrawable="@drawable/color_cursor"
+        android:background="@drawable/shape_msg_send_ed_fouce_bg"
+        android:layout_height="48dp" />
+    <TextView
+        android:id="@+id/toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font_12sp"
+        android:textColor="@color/colorGrey"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_4dp"
+        android:layout_marginBottom="@dimen/dimen_4dp"
+        android:text="设置您在本群的昵称，此昵称只在此群显示"/>
+</LinearLayout>

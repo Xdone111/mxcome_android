@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tag_text"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rect_topic1"
+    android:minHeight="45dp"
+    android:minWidth="45dp"
+    android:paddingTop="@dimen/dimen_6dp"
+    android:paddingBottom="@dimen/dimen_6dp"
+    android:paddingLeft="@dimen/dimen_10dp"
+    android:paddingRight="@dimen/dimen_10dp"
+    android:gravity="center"
+    android:textSize="@dimen/font_16sp"
+    android:textColor="@color/white">
+</Button>

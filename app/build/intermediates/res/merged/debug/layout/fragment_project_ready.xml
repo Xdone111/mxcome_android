@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/adv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="matrix"
+        android:background="@mipmap/project_welcome"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/adv"
+        android:layout_above="@+id/next"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/center_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_above="@+id/center_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你准备好了吗？"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_25sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/dimen_16dp"
+            android:layout_marginBottom="@dimen/dimen_16dp"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_below="@+id/center_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="激动人心的时候到了!"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_25sp"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_16dp"
+            android:layout_marginTop="@dimen/dimen_16dp"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/next"
+        style="@style/RectBtnPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="准备好了"/>
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/adv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="matrix"
+        android:background="@mipmap/project_choice_adv" />
+
+    <RelativeLayout
+        android:layout_below="@+id/adv"
+        android:layout_above="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+       <RadioGroup
+           android:id="@+id/radioGroup"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           android:layout_centerInParent="true">
+
+           <RadioButton
+               android:id="@+id/radio1"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:button="@null"
+               android:gravity="center"
+               android:drawablePadding="@dimen/dimen_8dp"
+               android:drawableTop="@drawable/project_whole_icon"
+               android:text="@string/project_whole"
+               android:textColor="@color/tab_text_color"/>
+
+           <RadioButton
+               android:id="@+id/radio2"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:button="@null"
+               android:gravity="center"
+               android:drawablePadding="@dimen/dimen_8dp"
+               android:drawableTop="@drawable/project_module_icon"
+               android:text="@string/project_module"
+               android:textColor="@color/tab_text_color"/>
+
+        </RadioGroup>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/next"
+        style="@style/RectBtnPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/next"/>
+</RelativeLayout>

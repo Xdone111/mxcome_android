@@ -1,0 +1,179 @@
+<resources>
+
+    <string name="project_person_config">人员\n配置</string>
+    <string name="project_meterial_config">材料\n配置</string>
+    <string name="project_comple_time">预计竣工时间</string>
+    <string name="project_pay_text">首付比例</string>
+    <string name="project_return_modifi">返回修改</string>
+    <string name="project_begin_const">开始施工</string>
+    <string name="main_tool">工具</string>
+    <string name="tool_almanac_lunar">十月 初四（小）（阴历）</string>
+    <string name="tool_almanac_time">丙申年（猴年）乙亥年 己丑日</string>
+    <string name="tool_today_index">今日指数</string>
+    <string name="tool_suitable">宜</string>
+    <string name="tool_stop">忌</string>
+    <string name="tool_text_stop">栽种</string>
+    <string name="tool_text_suitable">修造 动土 迁徙 入宅</string>
+    <string name="tool_date">2016.11</string>
+    <string name="tool_calendar">黄历</string>
+    <string name="complaint_content">你应该保证你的投诉行为基于善意,并代表你本人真实意思,MXCOME作为中立的服务平台,
+        收到你的投诉后,会尽快按照平台规则及相关法律法规的规定独立判断并进行处理.MXCOME将会采取合理的措施保护你的个人信息;
+        除法律法规规定的情况外,未经用户许可,MXCOME不会向第三方公开,透露你的个人信息.</string>
+
+    <string name="msg_id_text">对方MX账号/ID名/手机号</string>
+    <string name="msg_my_code">我的二维码名片</string>
+    <string name="msg_my_card">发送好友名片</string>
+    <string name="msg_scan">扫一扫加好友</string>
+    <string name="msg_my_acquaintance">可能认识的人</string>
+    <string name="msg_new_friend">新的好友</string>
+    <string name="msg_chat">群聊</string>
+    <string name="msg_friend_list">通讯录</string>
+    <string name="msg_add_particular_interest">添加特别关心</string>
+    <string name="mxcome">MXCOME</string>
+    <string name="demand_text">在此输入文字</string>
+    <string name="change_sex">更改性别</string>
+    <string name="change_nike">更改昵称</string>
+    <string name="my_sign">个性签名</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="toolbar_info">个人资料</string>
+    <string name="toolbar_about_soft">关于本软件</string>
+    <string name="toolbar_push_switch">推送开关</string>
+    <string name="version_soft">MXCOME&#160;V1.1</string>
+    <string name="FENAZOLA">FENAZOLA</string>
+    <string name="law_text">法律条款</string>
+    <string name="good_reputation">好评送好礼</string>
+    <string name="back_text">回到引导页</string>
+    <string name="quality_goods">必 出 精 品</string>
+    <string name="update_clear">更新与清理</string>
+    <string name="share_text">分享领优惠</string>
+    <string name="exit">退出当前账户</string>
+    <string name="buttom_text1">MXCOME软件许可及服务协议</string>
+    <string name="buttom_text2">风正创元互联网科技&#160;版权所有</string>
+    <string name="buttom_text3">Copyright&#160;©2016&#160;FENAZOLA</string>
+    <string name="switch_text1">工程施工信息</string>
+    <string name="switch_text2">用户沟通信息</string>
+    <string name="switch_text3">官方正式通告</string>
+    <string name="switch_text4">工程类优惠信息</string>
+    <string name="switch_text5">商城类优惠信息</string>
+    <string name="update_clear1">检查新版本</string>
+    <string name="update_clear2">WIFI下自动更新</string>
+    <string name="update_clear3">清理缓存</string>
+    <string name="update_clear4">定期自动清理缓存</string>
+    <string name="setting">设置</string>
+
+
+    <string name="diary_radio1">小区\n信息</string>
+    <string name="diary_radio2">装修\n公司</string>
+    <string name="diary_radio3">装修\n清单</string>
+    <string name="diary_radio4">质检\n记录</string>
+
+    <string name="news_text1">项目名称</string>
+    <string name="news_text2">位&#160;&#160;&#160;&#160;&#160;&#160;&#160;置</string>
+    <string name="news_text3">面&#160;&#160;&#160;&#160;&#160;&#160;&#160;积</string>
+    <string name="news_text4">户&#160;&#160;&#160;&#160;&#160;&#160;&#160;型</string>
+    <string name="news_text5">风&#160;&#160;&#160;&#160;&#160;&#160;&#160;格</string>
+    <string name="news_text6">预&#160;&#160;&#160;&#160;&#160;&#160;&#160;算</string>
+
+    <string name="diary_content_hint">今天我家的房子开始装修了。</string>
+    <string name="no_write">未填写</string>
+
+
+    <string name="found_add">资金\n增值</string>
+    <string name="account_num">有&#160;%s&#160;元不可转出(已授权工程转款部分)</string>
+    <string name="text_explain1">预计%s内到账，每天限额5万元，(成为钻石会员尊享20万元)</string>
+    <string name="text_explain2">预计%s(2天后)23:59前到账,无限额,01月24日-01月25号仍有收益</string>
+    <string name="feedback_hint_content">我们尊重每一位梦想家,请告知您的使用感受，帮助我不断改进，系统将随机派发奖励哦:)</string>
+
+    <string name="provide_text">提供反馈</string>
+    <string name="radio_suggest1"> 建议</string>
+    <string name="radio_suggest2"> 喜欢</string>
+    <string name="radio_suggest3"> 不喜欢</string>
+    <string name="input_num">文字输入请在300以内</string>
+    <string name="print_text">提供截图</string>
+    <string name="tv_privacy">隐私声明</string>
+    <string name="tv_more">了解更多</string>
+    <string name="send_text">发送</string>
+    <string name="cancel_text">取消</string>
+
+    <string name="me_help_text1">什么是装修盾</string>
+    <string name="me_help_text2">什么是ME宝</string>
+    <string name="me_help_text3">装修流程</string>
+    <string name="me_help_text4">付款流程</string>
+    <string name="help">帮助</string>
+
+    <string name="fast_later_btn">忽略此条</string>
+    <string name="fast_deal_btn">立即处理</string>
+    <string name="fast_feedback">反馈</string>
+    <string name="fast_official_announce">官方公告</string>
+
+    <string name="fast_official">官方</string>
+    <string name="fast_attract_info">MXCOME全国火热招商中，欢迎来电垂询。合作共赢</string>
+    <string name="fast_address">WWW.MXCOME.COM</string>
+
+    <string name="fast_complain">投诉</string>
+    <string name="fast_name">晒太阳设计</string>
+    <string name="fast_no_name">未实名</string>
+    <string name="fast_deal">快速处理</string>
+
+    <string name="new_project_content">请您填入以下信息，方便我们为你尊驾提供专业周到的服务。当收到您的申请后，
+        我们的工作人员会立即安排，请保持手机畅通。</string>
+
+
+    <string name="smart_home_select">选择\n配置</string>
+
+    <string name="identity_choice_tips">提示:为了更好的提供优质服务,用户使用更为简便,建议您可以一次性填入所有的信息,
+        基于法律法规,MXCOME将不会向任何第三方泄露您的隐私信息,敬请放心。</string>
+
+    <string name="project_real_name">真实姓名</string>
+    <string name="project_idcard">身份证号码</string>
+
+    <string name="confirm_password">请再次输入密码</string>
+
+    <string name="terms1">欢迎使用MXCOME!任何使用MXCOME的服务,您应当阅读并遵守《MXCOME服务协议》
+        (以下简称“本协议”)请您务必审慎阅读,充分理解各条款内容，特别是免除或者限制责任的条款、管辖与法律适用条款
+        已经开通或使用某项服务的单独协议。限制、免责条款可能以黑体加粗或加下划线的形式提示您重点注意。除非您已经阅读
+        并接受本协议所有条款,否则您无权使用MXCOME提供的服务。您使用MXCOME的服务即视为您已阅读并同意上述协议的约束。</string>
+    <string name="terms2">如果您未满18周岁,请在法定监护人的陪同下阅读本协议,并特别注意未成年人使用条款。</string>
+    <string name="terms3">1.1 本协议是您与MXCOME之间关于用户使用MXCOME先关服务所订立的协议。“MXCOME”是指风正创元公司
+        及其相关服务可能存在的运营关联单位。“用户”是指使用MXCOME先关服务的使用人，在本协议中更多的称为“您”。</string>
+    <string name="terms4">1.2 本协议项下的服务是指MXCOME向用户提供的装修类服务，包括但不限于即时沟通、网络媒体、
+    增值业务、专题活动、电子商务和广告等产品及服务(一下简称“本服务”)</string>
+    <string name="terms5">1.3 您在使用MXCOME某一特定服务时，该服务可能会另有单独的协议，相关业务规定等(以下简称为“单独协议”)。</string>
+
+
+    <string name="free_decorate_text">请您填入以下信息，方便我们为尊驾提供专业周到的服务。收到申请后，平台将审核活动资格，期间敬请
+    保持手机通畅。获取活动资格的用户将进行现场抽奖，我们承诺当场公布中奖名单，签约后立即享受万美和所带来的高标准服务以及免费装修。</string>
+
+    <string name="designer_goodat_style">擅长风格</string>
+    <string name="home_page">主页</string>
+    <string name="mxcome_clause">我已阅读并接受%s</string>
+
+    <string name="free_designer_text">我们将严格保护您的隐私信息\n您申请的资料提交后，我们客服将于24小时之内与您取得联系。</string>
+
+    <string name="project_name1">请输入业主姓名</string>
+    <string name="roll_bank_reason1">用户确认工程订单的资金额并授权工程开始施工，此时，
+        ME宝的部分或全部资金变更为专项工程资金，且无法转出到卡，直到工程施工完成，验收及结算完毕。</string>
+
+    <string name="roll_bank_reason2">临时转入但还未授权的资金部分可以转出到卡，或转出到账户用于消费及转账。</string>
+
+    <string name="pay_point_text">第一次  工程开工前 五个工作日\n第二次  泥工验收确认 三日内\n第三次  竣工验收确认 三十天内</string>
+
+    <string name="cyclopedia">你浏览了百科类&#160;%s&#160;内容</string>
+    <string name="media">你浏览了媒体类&#160;%s&#160;内容</string>
+
+    <string name="decorate_text1">拆改</string>
+    <string name="decorate_text2">水电</string>
+    <string name="decorate_text3">泥工</string>
+    <string name="decorate_text4">木工</string>
+    <string name="decorate_text5">油漆</string>
+    <string name="decorate_text6">软装</string>
+    <string name="decorate_text7">地板</string>
+    <string name="decorate_text8">竣工</string>
+
+
+    <string name="decorate_content">切割开槽，布设电/水管。进行第一次验收。水路要打压测试
+    电路要通电验收。这是装修大坑，需控制预算，小心超支。</string>
+
+
+</resources>

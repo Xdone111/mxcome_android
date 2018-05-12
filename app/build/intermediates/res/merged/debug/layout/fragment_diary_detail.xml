@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:id="@+id/ll_bg"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:background="@mipmap/detail_bg"
+                            android:orientation="vertical" />
+
+                        <ImageView
+                            android:id="@+id/imageView"
+                            android:layout_width="@dimen/dimen_80dp"
+                            android:layout_height="@dimen/dimen_80dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="160dp"
+                            android:src="@mipmap/diary_photo" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tv_location"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="长沙"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <TextView
+                            android:id="@+id/tv_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_10dp"
+                            android:text="小鱼儿"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/font_14sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/hourse_info"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/dimen_6dp"
+                        android:text="20万/140m²/三居/北欧"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_1px"
+                        android:layout_marginLeft="@dimen/dimen_40dp"
+                        android:layout_marginRight="@dimen/dimen_40dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@drawable/line" />
+
+                    <com.fenazola.mxcome.widget.RadioGroupLayout
+                        android:id="@+id/radio_layout1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/dimen_20dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:layout_marginRight="@dimen/dimen_30dp"
+                        android:layout_marginTop="@dimen/dimen_20dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:duplicateParentState="true"
+                            android:gravity="center">
+
+                            <RadioButton
+                                android:id="@+id/radio_demand1"
+                                android:layout_width="@dimen/dimen_52dp"
+                                android:layout_height="@dimen/dimen_52dp"
+                                android:background="@drawable/corner_shape_grey_diary"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:text="@string/diary_radio1"
+                                android:textColor="@color/colorGrey"
+                                android:textSize="@dimen/font_14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:duplicateParentState="true"
+                            android:gravity="center">
+
+                            <RadioButton
+                                android:id="@+id/radio_demand2"
+                                android:layout_width="@dimen/dimen_52dp"
+                                android:layout_height="@dimen/dimen_52dp"
+                                android:background="@drawable/corner_shape_grey_diary"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:text="@string/diary_radio2"
+                                android:textColor="@color/colorGrey"
+                                android:textSize="@dimen/font_14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:duplicateParentState="true"
+                            android:gravity="center">
+
+                            <RadioButton
+                                android:id="@+id/radio_demand3"
+                                android:layout_width="@dimen/dimen_52dp"
+                                android:layout_height="@dimen/dimen_52dp"
+                                android:background="@drawable/corner_shape_grey_diary"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:text="@string/diary_radio3"
+                                android:textColor="@color/colorGrey"
+                                android:textSize="@dimen/font_14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:duplicateParentState="true"
+                            android:gravity="center">
+
+                            <RadioButton
+                                android:id="@+id/radio_demand4"
+                                android:layout_width="@dimen/dimen_52dp"
+                                android:layout_height="@dimen/dimen_52dp"
+                                android:background="@drawable/corner_shape_grey_diary"
+                                android:button="@null"
+                                android:gravity="center"
+                                android:text="@string/diary_radio4"
+                                android:textColor="@color/colorGrey"
+                                android:textSize="@dimen/font_14sp" />
+                        </LinearLayout>
+                    </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/dimen_10dp"
+                    android:background="@drawable/rect_corner_white_diary"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/dimen_10dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:text="开工准备"
+                            android:textColor="@color/black"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerInParent="true"
+                            android:layout_marginRight="@dimen/dimen_10dp"
+                            android:src="@mipmap/pull_down" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_1px"
+                        android:background="@drawable/line" />
+
+                    <TextView
+                        android:id="@+id/diary_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:lineSpacingExtra="@dimen/dimen_2dp"
+                        android:text="     哈哈哈哈哈哈哈哈哈哈哈哈"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_12sp" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/image1"
+                            android:layout_width="0dp"
+                            android:layout_height="@dimen/dimen_100dp"
+                            android:layout_marginLeft="@dimen/dimen_10dp"
+                            android:layout_marginRight="@dimen/dimen_10dp"
+                            android:layout_weight="1"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/decoration_video" />
+
+                        <ImageView
+                            android:id="@+id/image2"
+                            android:layout_width="0dp"
+                            android:layout_height="@dimen/dimen_100dp"
+                            android:layout_marginRight="@dimen/dimen_10dp"
+                            android:layout_weight="1"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/decoration_video" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center">
+
+                        <TextView
+                            android:id="@+id/collect"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="@dimen/dimen_20dp"
+                            android:drawablePadding="@dimen/dimen_4dp"
+                            android:drawableTop="@mipmap/diary_detail_collect"
+                            android:gravity="center"
+                            android:padding="@dimen/dimen_10dp"
+                            android:text="1660"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/comment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:drawablePadding="@dimen/dimen_4dp"
+                            android:drawableTop="@mipmap/diary_detail_comment"
+                            android:gravity="center"
+                            android:padding="@dimen/dimen_10dp"
+                            android:text="660"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <View
+        android:id="@+id/detail_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/trans_b"
+        android:visibility="gone" />
+
+    <com.fenazola.mxcome.widget.Panel
+        android:id="@+id/leftPanel1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        app:position="left">
+
+        <ImageButton
+            android:id="@id/panelHandle"
+            android:layout_width="15dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@mipmap/diary_right_switch" />
+
+        <RelativeLayout
+            android:id="@id/panelContent"
+            android:layout_width="145dp"
+            android:layout_height="400dp"
+            android:paddingTop="@dimen/dimen_8dp"
+            android:paddingBottom="@dimen/dimen_8dp"
+            android:background="@drawable/rect_corner_white_diary_float"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="装修日记段落"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/font_13sp" />
+
+                <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@null" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/panelHandle2"
+                android:layout_width="15dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerHorizontal="true"
+                android:background="@null"
+                android:src="@mipmap/diary_left_switch" />
+
+        </RelativeLayout>
+    </com.fenazola.mxcome.widget.Panel>
+
+</RelativeLayout>

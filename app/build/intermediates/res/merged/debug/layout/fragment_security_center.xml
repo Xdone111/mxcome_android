@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/show_top_ly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/security_center_bg"
+                android:gravity="center_horizontal|bottom"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/dimen_14dp"
+                    android:layout_marginTop="@dimen/dimen_12dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/me_security_logo" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="安全连接一切"
+                        android:visibility="gone"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_18sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="Secure With Every Connection"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        android:textSize="@dimen/font_14sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="密保问题"
+                app:summary_text="请自定义三个问题" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/msg_light_grey" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="登录密码"
+                app:summary_text="修改或者重置登录密码" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/msg_light_grey" />
+
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="支付密码"
+                app:summary_text="修改或者重置支付密码" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/msg_light_grey" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="冻结账号"
+                app:summary_text="怀疑账号被盗，可以紧急冻结账号" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/msg_light_grey" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="解冻账号"
+                app:summary_text="解除安全风险后，你可以解冻账号" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/msg_light_grey" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/TextWidget6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                app:left_text="投诉维权"
+                app:summary_text="投诉个人账号侵权行为" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/show_faq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:paddingBottom="@dimen/dimen_10dp"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:text="常见问题"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/font_14sp" />
+
+    <include layout="@layout/top_layout" />
+</RelativeLayout>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/layout_1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dimen_6dp"
+                android:paddingRight="@dimen/dimen_6dp">
+
+
+                <TextView
+                    android:id="@+id/to_diversity_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+                    android:padding="@dimen/dimen_6dp"
+                    android:drawableLeft="@mipmap/now_time_g"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:text="三分钟快速学装修"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_13sp" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center_vertical"
+                    android:drawableLeft="@mipmap/ransfer_only_text"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:gravity="center"
+                    android:padding="@dimen/dimen_6dp"
+                    android:text="看文字版"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_13sp" />
+
+            </RelativeLayout>
+
+            <VideoView
+                android:id="@+id/video_view"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1" />
+
+            <ImageView
+                android:id="@+id/init_video_iv"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1"
+                android:scaleType="fitXY"
+                android:src="@mipmap/decoration_video" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/believe_play" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/video_view"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@mipmap/student_line" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:padding="@dimen/dimen_8dp"
+                    android:text="分段学习"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_14sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/layout_2"
+                android:layout_margin="@dimen/dimen_12dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@mipmap/zhunbei_ico"
+                        android:drawablePadding="@dimen/dimen_4dp"
+                        android:text="准备阶段"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:id="@+id/title1"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/shoufang_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title1_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/shoufang_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title1_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="收房篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/title2"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="4dp"
+                            android:layout_marginRight="4dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/sheji_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title2_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/sheji_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title2_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="设计篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/title3"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/yusuan_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title3_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/yusuan_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title3_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="预算篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@mipmap/shigong_ico"
+                        android:drawablePadding="@dimen/dimen_4dp"
+                        android:text="施工阶段"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:id="@+id/title4"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/cailiao_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title4_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/cailiao_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title4_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="材料篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/title5"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="4dp"
+                            android:layout_marginRight="4dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/chaigai_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title5_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/chaigai_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title5_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="拆改篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/title6"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/shuidian_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title6_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/shuidian_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title6_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="水电篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@mipmap/ruzhu_ico_title"
+                        android:drawablePadding="@dimen/dimen_4dp"
+                        android:text="入住阶段"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:id="@+id/title7"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/ruanzhuang_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title7_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/ruanzhuang_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title7_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="软装篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/title8"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="4dp"
+                            android:layout_marginRight="4dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/ruzhu_bg"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/title8_iv"
+                                android:layout_width="48dp"
+                                android:layout_height="48dp"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="fitXY"
+                                android:src="@mipmap/ruzhu_ico"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:id="@+id/title8_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="入住篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="8dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/designer_detail_img2"
+                            android:gravity="center"
+                            android:visibility="invisible"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:lineSpacingExtra="@dimen/dimen_8dp"
+                                android:scaleType="centerInside"
+                                android:src="@mipmap/guide_hot"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_17sp" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/dimen_8dp"
+                                android:text="收房篇"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/font_16sp" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

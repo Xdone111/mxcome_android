@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/dimen_52dp">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:text="未使用"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:button="@null"/>
+
+        <RadioButton
+            android:id="@+id/radio2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:text="已使用"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:button="@null"/>
+
+        <RadioButton
+            android:id="@+id/radio3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:text="已失效"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:button="@null"/>
+
+
+    </RadioGroup>
+
+    <com.zss.library.indicator.UnderlinePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_2dp"
+        android:background="@color/white"
+        app:selectedColor="@color/colorBlue"
+        app:fades="false"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>

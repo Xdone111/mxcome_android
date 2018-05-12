@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@color/colorBlue"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/me_about_logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_6dp"
+            android:text="@string/version_soft"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_20dp"
+        android:paddingTop="@dimen/dimen_20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:id="@+id/ll_about_fenazona"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/dimen_40dp"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:src="@mipmap/about_fenazona" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:button="@null"
+                    android:text="@string/FENAZOLA"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/dimen_1px"
+                android:layout_height="@dimen/dimen_80dp"
+                android:layout_gravity="bottom"
+                android:background="@color/msg_light_grey" />
+
+            <LinearLayout
+                android:id="@+id/ll_about_law"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/dimen_40dp"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:src="@mipmap/about_law" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:button="@null"
+                    android:text="@string/law_text"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="150dp"
+            android:layout_height="@dimen/dimen_1px"
+            android:layout_gravity="center"
+            android:background="@color/msg_light_grey"
+            android:paddingBottom="@dimen/dimen_25dp"
+            android:paddingTop="@dimen/dimen_25dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:id="@+id/ll_about_praise"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/dimen_40dp"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:src="@mipmap/about_praise" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:button="@null"
+                    android:text="@string/good_reputation"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/dimen_1px"
+                android:layout_height="@dimen/dimen_80dp"
+                android:layout_gravity="top"
+                android:background="@color/msg_light_grey" />
+
+            <LinearLayout
+                android:id="@+id/ll_about_back_leadpage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@mipmap/about_back_leadpage" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:button="@null"
+                    android:text="@string/back_text"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_40dp"
+            android:gravity="center"
+            android:text="@string/FENAZOLA"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_10sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_40dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1px"
+                android:layout_gravity="top"
+                android:layout_marginLeft="@dimen/dimen_30dp"
+                android:layout_weight="1"
+                android:background="@color/msg_light_grey" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/quality_goods"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_10sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dimen_1px"
+                android:layout_gravity="top"
+                android:layout_marginRight="@dimen/dimen_30dp"
+                android:layout_weight="1"
+                android:background="@color/msg_light_grey" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

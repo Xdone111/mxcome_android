@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_8dp">
+
+        <ImageView
+            android:id="@+id/msg_photo"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:src="@mipmap/message_user_photo" />
+
+
+        <TextView
+            android:id="@+id/add_friend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/rect_shape_white_blue"
+            android:paddingBottom="@dimen/dimen_4dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:paddingTop="@dimen/dimen_4dp"
+            android:text="加好友"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_13sp" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/msg_photo"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:text="奇迹王子"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_14sp" />
+
+            <TextView
+                android:id="@+id/friend_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginTop="5dp"
+                android:text="2"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_12sp" />
+
+            <TextView
+                android:id="@+id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:layout_marginLeft="@dimen/dimen_2dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/friend_number"
+                android:text="位共同好友"
+                android:textSize="@dimen/font_12sp" />
+
+            <TextView
+                android:id="@+id/autonym"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/name"
+                android:background="@drawable/rect_shape_trans_yellow"
+                android:padding="@dimen/dimen_2dp"
+                android:text="已实名"
+                android:textColor="@color/colorYellow"
+                android:textSize="@dimen/font_10sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1px"
+        android:layout_marginLeft="@dimen/dimen_70dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/line"
+        android:orientation="vertical" />
+
+</LinearLayout>

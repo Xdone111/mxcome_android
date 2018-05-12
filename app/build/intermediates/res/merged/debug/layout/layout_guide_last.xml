@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/guide_02">
+
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp">
+
+        <TextView
+            android:id="@+id/btn2"
+            android:layout_width="0dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/corner_normal_selector"
+            android:text="立即装修"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_17sp" />
+
+        <TextView
+            android:id="@+id/btn3"
+            android:layout_width="0dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="@dimen/dimen_25dp"
+            android:layout_marginRight="@dimen/dimen_20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/corner_normal_selector"
+            android:text="我先逛逛"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_17sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/btn1"
+        android:layout_width="160dp"
+        android:layout_height="42dp"
+        android:layout_above="@id/bottom_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp"
+        android:gravity="center"
+        android:background="@drawable/corner_primary_selector"
+        android:text="免费装修"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_17sp" />
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/guide_hot"
+            android:layout_alignRight="@id/btn1"
+            android:layout_alignTop="@id/btn1"/>
+
+
+
+
+</RelativeLayout>

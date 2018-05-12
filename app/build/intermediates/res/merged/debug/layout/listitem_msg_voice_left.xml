@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/chat_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/text_color"
+        android:textSize="10sp"
+        android:visibility="gone" />
+
+    <com.fenazola.mxcome.widget.clipView.CircleImageView
+        android:id="@+id/user_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/chat_time"
+        android:src="@mipmap/msg_default_icon"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/chat_time"
+        android:layout_toRightOf="@+id/user_icon"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/voice_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:id="@+id/voice_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@mipmap/msg_chat_left">
+
+                <ImageView
+                    android:id="@+id/recorder_anim"
+                    android:layout_width="15dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center_vertical|left"
+                    android:background="@mipmap/chat_voice_receiver3" />
+
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/voice_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_gravity="center_vertical"
+                android:textColor="@color/text_color"
+                android:text="2'"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/unread"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_gravity="center_vertical|right"
+            android:src="@mipmap/msg_chat_voice_unread"/>
+    </LinearLayout>
+
+</RelativeLayout>

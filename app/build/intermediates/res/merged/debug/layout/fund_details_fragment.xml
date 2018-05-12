@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+    <ListView
+        android:id="@+id/show_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/line">
+    </ListView>
+    <FrameLayout
+        android:id="@+id/classify_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/radioGroup">
+
+    </FrameLayout>
+</RelativeLayout>

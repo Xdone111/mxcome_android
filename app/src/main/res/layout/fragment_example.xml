@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+    <com.fenazola.mxcome.widget.AlwaysMarqueeTextView
+        android:id="@+id/message_tv_pop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:paddingTop="@dimen/dimen_8dp"
+        android:paddingBottom="@dimen/dimen_8dp"
+        android:drawableLeft="@mipmap/project_progress_msg_gray"
+        android:drawablePadding="@dimen/dimen_4dp"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_12sp"
+        android:layout_marginLeft="@dimen/dimen_8dp"
+
+        android:text="通过观看客户的装修实例，快速了解如何通过本平台进行装修。" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/trans"
+        android:scrollbars="none"
+        android:dividerHeight="0dp"/>
+
+
+</LinearLayout>

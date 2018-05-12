@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <com.zss.library.ptr.PtrClassicFrameLayout
+        android:id="@+id/mPtrFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/sendMsgLayout">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_above="@+id/sendMsgLayout"
+            android:divider="@null"
+            android:listSelector="@color/msg_grey_bg"
+            android:background="@color/msg_grey_bg"
+            android:paddingTop="@dimen/dimen_10dp"
+            android:paddingBottom="@dimen/dimen_10dp"
+            android:dividerHeight="@dimen/dimen_10dp" />
+
+    </com.zss.library.ptr.PtrClassicFrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/center_layout"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/show_is_rec_iv"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/rec_bg" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp">
+
+            <ImageView
+                android:id="@+id/iv_input"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/rec_img" />
+
+            <TextView
+                android:id="@+id/center_voice_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_14sp"
+                android:textStyle="bold"
+                android:text="01"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+   <LinearLayout
+       android:id="@+id/sendMsgLayout"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+       android:gravity="center"
+       android:background="@color/white"
+       android:orientation="vertical">
+       <TextView
+           android:id="@+id/to_sms_1"
+           android:layout_width="wrap_content"
+           android:layout_height="48dp"
+           android:text="文字输入"
+           android:gravity="center"
+           android:drawablePadding="@dimen/dimen_4dp"
+           android:drawableLeft="@mipmap/project_edit"
+           android:textSize="@dimen/font_14sp"
+           android:textColor="@color/colorGrey"/>
+       <LinearLayout
+           android:id="@+id/edit_txt_ly"
+           android:layout_width="match_parent"
+           android:layout_height="@dimen/dimen_48dp"
+           android:visibility="gone"
+           android:gravity="center"
+           android:background="@color/main_medium_corner_bg"
+           android:orientation="horizontal">
+           <EditText
+               android:id="@+id/edit_info_tv"
+               android:layout_width="0dp"
+               android:layout_height="match_parent"
+               android:layout_weight="1"
+               android:hint="请输入您的问题"
+               android:background="@color/trans"
+               android:gravity="center"
+               android:paddingLeft="@dimen/dimen_8dp"
+               android:paddingRight="@dimen/dimen_8dp"
+               android:textColorHint="@color/colorGrey"
+               android:textSize="@dimen/font_14sp"
+               android:textColor="@color/colorBlue"/>
+            <TextView
+                android:layout_width="@dimen/dimen_1px"
+                android:layout_margin="@dimen/dimen_8dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorBlue"/>
+           <ImageView
+               android:id="@+id/send_info_iv"
+               android:layout_width="wrap_content"
+               android:layout_height="match_parent"
+               android:layout_marginRight="@dimen/dimen_16dp"
+               android:layout_marginLeft="@dimen/dimen_10dp"
+               android:src="@mipmap/msg_send_img" />
+       </LinearLayout>
+       <RelativeLayout
+           android:id="@+id/edit_msg_ly"
+           android:layout_width="match_parent"
+           android:layout_height="60dp"
+           android:visibility="gone"
+           android:background="@color/white"
+           android:orientation="horizontal">
+           <ImageView
+               android:id="@+id/open_photo"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@mipmap/msg_chat_img"
+               android:background="@color/trans"
+               android:gravity="center"
+               android:layout_centerVertical="true"
+               android:paddingLeft="@dimen/dimen_8dp"
+               android:paddingRight="@dimen/dimen_8dp"
+               android:textColorHint="@color/colorGrey"/>
+           <ImageView
+               android:id="@+id/send_voice"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@mipmap/msg_voice_bottom_img"
+               android:background="@color/trans"
+               android:gravity="center"
+               android:layout_centerInParent="true"
+               android:paddingLeft="@dimen/dimen_8dp"
+               android:paddingRight="@dimen/dimen_8dp"
+               android:textColorHint="@color/colorGrey"/>
+           <ImageView
+               android:id="@+id/to_edit_txt"
+               android:layout_alignParentRight="true"
+               android:layout_width="wrap_content"
+               android:layout_height="match_parent"
+               android:layout_marginRight="@dimen/dimen_16dp"
+               android:layout_marginLeft="@dimen/dimen_10dp"
+               android:src="@mipmap/project_edit" />
+       </RelativeLayout>
+   </LinearLayout>
+
+</RelativeLayout>

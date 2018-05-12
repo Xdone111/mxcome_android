@@ -1,0 +1,1754 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complaints_group.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_complaints_group.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curtain.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\curtain.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_memo_information.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_memo_information.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reycleritem_materail1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\reycleritem_materail1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_list_item_tag.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_list_item_tag.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer_decoration_knowledge.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer_decoration_knowledge.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\limit_description_fragment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\limit_description_fragment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header_site_live.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listview_header_site_live.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_image_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_image_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabbar_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\tabbar_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_friend_group_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_friend_group_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_centre.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_service_centre.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_acquaintance.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_acquaintance.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_list_item_special_attention.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_list_item_special_attention.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_worker.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_worker.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_folder_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\item_folder_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_project_order.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_my_project_order.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tagitem_service.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\tagitem_service.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_player.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_media_player.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_custom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_other_person_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_other_person_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_send_card_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_send_card_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_history_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_history_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_worker_detail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_worker_detail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_fund.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_fund.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child6.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child6.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_material_product.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_material_product.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_other_person_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_other_person_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tagitem_client_say.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\tagitem_client_say.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info5.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info5.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fund_add.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_fund_add.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_up_door.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_up_door.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_topic.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_topic.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_push_to.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_push_to.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\speak_list_fragment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\speak_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_diary_info_edite.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_diary_info_edite.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand_design.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand_design.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_comment_detail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_comment_detail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_new_friends.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_new_friends.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_worker_circle.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_worker_circle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_file.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer_history.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer_history.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_order_details.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_order_details.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sex.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_sex.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_decorate_diary.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_decorate_diary.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_ask.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_ask.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_add_group_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_add_group_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_downpay.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_downpay.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_module.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_module.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay_suc_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_pay_suc_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_schedu.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_schedu.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_believe_speak.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_believe_speak.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_wheel_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_wheel_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_project_image.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_project_image.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_acquaintance.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_acquaintance.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_project_step1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_project_step1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay_suc_center.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_pay_suc_center.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_ad.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\viewpager_ad.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reset_pay_password.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_reset_pay_password.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_picker.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\activity_photo_picker.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_send_sms.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_send_sms.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clip_image.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_clip_image.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tel_service.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_tel_service.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_comment_zhuanyuan.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_comment_zhuanyuan.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan_consume.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_loan_consume.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_decoration_list_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_decoration_list_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_update_clear.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_update_clear.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay_pwd.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_pay_pwd.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set_password.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_set_password.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_empty_project_page.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listview_empty_project_page.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculate.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculate.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_talk.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_talk.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fast_deal_pager.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_fast_deal_pager.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_flow_item1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_flow_item1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_item_wheel.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_item_wheel.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_flow_item2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_flow_item2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_filter.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_filter.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_month_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\calendarview-debug\\res\\layout\\item_month_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me_pay.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_me_pay.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login_password.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_login_password.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_onlin_collaboration.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_onlin_collaboration.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_text_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_text_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_un_accounts.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_un_accounts.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coupon.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_coupon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_faq_safe.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_faq_safe.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_wait_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_wait_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_custom_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_custom_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_me_pay_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_me_pay_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_diary.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_diary.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_msg_qrcode.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_group_msg_qrcode.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thanks_comment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_thanks_comment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_textview.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_textview.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_image_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_image_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_comment_right_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_comment_right_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_collection_list_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_my_collection_list_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_online.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_online.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_see_materail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_see_materail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wait_new_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_wait_new_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\input_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_tool_bar.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_tool_bar.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_pay.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login_ready.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_login_ready.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_construct_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_construct_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_listview_friend.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_listview_friend.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reycleritem_materail2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\reycleritem_materail2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_frid_chat_log.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_frid_chat_log.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_widget.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_widget.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_item_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_list_item_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_complain.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_complain.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_wait_pay_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_wait_pay_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_log.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_chat_log.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_qc.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_group_qc.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_meal_style_desc.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_meal_style_desc.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_check.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_test_check.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\circle_menu_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\circle_menu_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_recycler.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_recycler.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_see_image.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_see_image.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_decorate_step.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\gridview_decorate_step.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_select.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_select.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_decore_flow.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_decore_flow.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_roll_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_roll_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fload_list_layout_stub.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\fload_list_layout_stub.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_information.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_balance_rollout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_balance_rollout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_area.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_area.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_fird_chat_log.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_fird_chat_log.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderlist_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\folderlist_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_faq_help.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_faq_help.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_online_collaboration_step_next.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_online_collaboration_step_next.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zframe.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\activity_zframe.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_faq.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_release_record.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_release_record.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cp_view_hot_city.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\cp_view_hot_city.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_complain_know.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_complain_know.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_set.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_set.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guide_last.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_guide_last.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wait_pay.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_wait_pay.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set_hello.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_set_hello.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coupon_goods.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_coupon_goods.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qc_more_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_qc_more_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_comment_worker.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_comment_worker.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wechat_server.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_wechat_server.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_meal_choice.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_meal_choice.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_list_login_pass.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_list_login_pass.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_comment_detail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_comment_detail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_push_to.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listview_push_to.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_comment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_comment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_heat.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_heat.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pay_style3.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_pay_style3.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_special_attention.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_special_attention.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_text.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_text.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_smart_home.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_smart_home.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fast_deal_pager_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_fast_deal_pager_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_msg_title.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_msg_title.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_input_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_input_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wheel.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_wheel.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_demand_choice.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_demand_choice.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_push_switch.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_push_switch.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fast_deal.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_fast_deal.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_send_business_card.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_send_business_card.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_set_design.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_set_design.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_example.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_example.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_soft.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_about_soft.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_send_msg.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_send_msg.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_site_live.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_site_live.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_voice_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_voice_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_progess.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_progess.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_main_right_double_iv.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_main_right_double_iv.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_add_friend.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_add_friend.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_voice_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_voice_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_two.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_two.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_terms.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_terms.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_w_main.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_w_main.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_speak_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_speak_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_visitor.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_visitor.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_drawerlayout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_drawerlayout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_set_hello_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_set_hello_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_rate1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_rate1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_main_title.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_main_title.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_schedule.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_schedule.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_fast_deal_message.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_fast_deal_message.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_browser.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_browser.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_chat_set_dpecial_attention.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_chat_set_dpecial_attention.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discount.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_discount.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_worker.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_worker.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gradienter.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_gradienter.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_main_city.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_main_city.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_remark_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_remark_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forget.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_forget.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_edit.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_edit.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_qrcode.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_qrcode.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curtain1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\curtain1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand_reward.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand_reward.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recycler_header.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_recycler_header.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_ready.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_ready.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child4.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child4.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_progress.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_progress.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_base.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\content_base.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_decorate_step.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_decorate_step.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_meal_choice.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_meal_choice.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_list_item_friend.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_item_list_item_friend.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\top_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bank_rollout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_bank_rollout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_set_hello.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_edit_set_hello.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chioce_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_chioce_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_identify.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_identify.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_first_ll.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_first_ll.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_group_setting_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_group_setting_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_worker_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_worker_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pay_style2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_pay_style2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_project_step2.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_project_step2.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_history_item_gv.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_history_item_gv.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_current_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_current_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me_personinfo.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_me_personinfo.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_flow_item3.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_flow_item3.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_edit.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account_advance.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_account_advance.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_white_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_white_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_empty_page.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listview_empty_page.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_diary_detail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_diary_detail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview_cj.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_webview_cj.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guide_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_guide_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_webview.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_project_webview.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_vp_image.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\item_vp_image.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_worker_seach.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_worker_seach.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_input_bank_card_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_input_bank_card_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info3.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info3.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_coupon.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_coupon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_detail.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_detail.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_smart_home.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_smart_home.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_skill.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_skill.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_copy.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_about_copy.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_b.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\common_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cp_item_hot_city_gridview.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\cp_item_hot_city_gridview.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_rate.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_rate.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_act.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_main_act.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_example.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_example.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_card_listitem.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_card_listitem.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_collection_grid_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_my_collection_grid_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_other_person_info_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_other_person_info_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scheme_picture.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_scheme_picture.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_select_site.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_select_site.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mepay_recharge.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_mepay_recharge.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_diary.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_create_diary.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_free_decorate.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_free_decorate.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_encyc.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_encyc.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_friend_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_friend_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer_media.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer_media.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_house_choice.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_house_choice.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_location_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_location_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_footer.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\cube_ptr_classic_default_footer.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_new_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info4.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info4.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_worker_title.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_worker_title.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_fund_add.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_fund_add.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_smart_package.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_smart_package.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pay_style1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_pay_style1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_seach.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_seach.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand_order.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand_order.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_security_center.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_security_center.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_site_monitor.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_site_monitor.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_construct_project.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_construct_project.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cp_item_city_listview.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\cp_item_city_listview.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_picker.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\scroll_picker.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_un_accounts_step1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_un_accounts_step1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_worker_area.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_worker_area.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_mepay.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_mepay.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_coupon_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_coupon_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand_waterproof.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand_waterproof.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_group_setting_right_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\view_group_setting_right_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child3.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child3.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_worker_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_worker_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_encyc_info.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_encyc_info.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer_decoration_knowledge_new.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer_decoration_knowledge_new.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_manual_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_manual_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item_new.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\comment_item_new.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demand_new.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_demand_new.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_designer_circle.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_designer_circle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_service_terms.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_service_terms.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_circle_limit.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_circle_limit.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycleritem_info_image.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\recycleritem_info_image.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_site_live.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listview_site_live.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_visitor.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_visitor.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_diary_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_diary_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_grid.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_grid.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info6.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info6.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_seach_history_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_seach_history_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_main_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_house_type.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_house_type.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cp_view_locate_city.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\cp_view_locate_city.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bank_list_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_bank_list_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_ransfer_media_diversity.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_ransfer_media_diversity.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_coupon_item1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_coupon_item1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_faq_input.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_faq_input.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_right_attention.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_right_attention.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_setting.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_group_setting.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_wheel.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_wheel.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_menu_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_second_ll.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_second_ll.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_share.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_share.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_select_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\common_select_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_house.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_select_house.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mx_guard.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_mx_guard.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_style.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_style.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_sort.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\popwin_sort.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_friend_list_add_group.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_msg_friend_list_add_group.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_main_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_tab_main_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reset_password.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_reset_password.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_diary.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_diary.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_role_experience.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_role_experience.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_msg_text_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_msg_text_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_row.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_list_row.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fund_list_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_fund_list_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_meal_desc.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_meal_desc.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\mxcome_android\\iframe\\unspecified\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ransfer_history_enc.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_ransfer_history_enc.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_center.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_center.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\speak_add_new_fragment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\speak_add_new_fragment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycleritem_smart_appliance.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\recycleritem_smart_appliance.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fund_details_fragment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fund_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_current_demand.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_current_demand.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calculation_result_child5.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_calculation_result_child5.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rights.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_rights.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_ransfer_media.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\listitem_ransfer_media.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_decoration_info_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_decoration_info_list.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discount1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_discount1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_schedu_caigou.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_schedu_caigou.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_choice.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_project_choice.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_manual_top_item.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_manual_top_item.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\griditem_calculate.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\griditem_calculate.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_card.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_select_card.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content_info1.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_content_info1.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_smart_appliance.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_smart_appliance.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_designer_browser.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_designer_browser.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_camera_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\item_camera_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo_layout.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\layout\\item_photo_layout.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\after_sale_protection_fragment.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\after_sale_protection_fragment.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_group.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_edit_group.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_project_step3.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\layout_project_step3.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_collection.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\fragment_my_collection.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bottom_list.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\layout\\dialog_bottom_list.xml"
+    }
+]

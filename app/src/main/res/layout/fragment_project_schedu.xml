@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlue"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.fenazola.mxcome.widget.ScheduWorkerLayout
+            android:id="@+id/workerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.fenazola.mxcome.widget.ScheduMaterialLayout
+            android:id="@+id/materialLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="11dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/see_materail"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_20dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@mipmap/schedu_see_meterial"
+            android:gravity="center"
+            android:paddingBottom="9dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:text="查看清单"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/start_project"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@mipmap/schedu_next_btn"
+            android:gravity="center"
+            android:paddingBottom="9dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:text="下一步"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/house_info_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="100dp"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_15sp" />
+
+        <TextView
+            android:id="@+id/house_type_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:maxWidth="100dp"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/dec_type_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:maxWidth="100dp"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_14sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:src="@mipmap/project_logo" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/authority"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:background="@mipmap/schedu_corner"
+            android:gravity="center"
+            android:paddingBottom="@dimen/dimen_4dp"
+            android:paddingLeft="@dimen/dimen_4dp"
+            android:paddingRight="@dimen/dimen_4dp"
+            android:text="全官方"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_12sp" />
+
+        <Button
+            android:id="@+id/recommend"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:background="@mipmap/schedu_corner"
+            android:gravity="center"
+            android:paddingBottom="@dimen/dimen_4dp"
+            android:paddingLeft="@dimen/dimen_4dp"
+            android:paddingRight="@dimen/dimen_4dp"
+            android:text="全推荐"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_12sp" />
+
+    </LinearLayout>
+
+    <com.zss.library.toolbar.CommonToolbar
+        android:id="@+id/topBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

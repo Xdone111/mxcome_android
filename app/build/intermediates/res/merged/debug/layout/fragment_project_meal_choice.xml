@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/choiceStyleLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/styleName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="56dp"
+            android:text="选择风格"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_14sp" />
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:id="@+id/radioGroupLayout"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="96dp"
+                android:layout_weight="1"
+                android:gravity="right">
+
+                <RadioButton
+                    android:id="@+id/radioTop"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_above="@+id/radioCenter"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/radio_yellow"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioTop"
+                    android:textColor="@color/schedu_yellow_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <RadioButton
+                    android:id="@+id/radioCenter"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="@dimen/dimen_1px"
+                    android:background="@drawable/radio_yellow"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioCenter"
+                    android:textColor="@color/schedu_yellow_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <RadioButton
+                    android:id="@+id/radioBottom"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_below="@+id/radioCenter"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/dimen_1px"
+                    android:background="@drawable/radio_yellow"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioBottom"
+                    android:textColor="@color/schedu_yellow_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="-14dp"
+                    android:layout_toLeftOf="@+id/radioCenter"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/radioTopLeft"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:background="@drawable/radio_yellow"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioTopLeft"
+                        android:textColor="@color/schedu_yellow_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioBottomLeft"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:layout_marginTop="@dimen/dimen_1px"
+                        android:background="@drawable/radio_yellow"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioBottomLeft"
+                        android:textColor="@color/schedu_yellow_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="-14dp"
+                    android:layout_toRightOf="@+id/radioCenter"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/radioTopRight"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:background="@drawable/radio_yellow"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioTopRight"
+                        android:textColor="@color/schedu_yellow_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioBottomRight"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:layout_marginTop="@dimen/dimen_1px"
+                        android:background="@drawable/radio_yellow"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioBottomRight"
+                        android:textColor="@color/schedu_yellow_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="-10dp"
+                android:layout_marginTop="@dimen/dimen_48dp"
+                android:layout_weight="1"
+                android:gravity="left">
+
+                <RadioButton
+                    android:id="@+id/radioTop1"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_above="@+id/radioCenter1"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/radio_blue"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioTop1"
+                    android:textColor="@color/schedu_blue_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <RadioButton
+                    android:id="@+id/radioCenter1"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="@dimen/dimen_1px"
+                    android:background="@drawable/radio_blue"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioCenter1"
+                    android:textColor="@color/schedu_blue_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <RadioButton
+                    android:id="@+id/radioBottom1"
+                    android:layout_width="62dp"
+                    android:layout_height="52dp"
+                    android:layout_below="@+id/radioCenter1"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/dimen_1px"
+                    android:background="@drawable/radio_blue"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_radioBottom1"
+                    android:textColor="@color/schedu_blue_text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="-14dp"
+                    android:layout_toLeftOf="@+id/radioCenter1"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/radioTopLeft1"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:background="@drawable/radio_blue"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioTopLeft1"
+                        android:textColor="@color/schedu_blue_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioBottomLeft1"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:layout_marginTop="@dimen/dimen_1px"
+                        android:background="@drawable/radio_blue"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioBottomLeft1"
+                        android:textColor="@color/schedu_blue_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="-14dp"
+                    android:layout_toRightOf="@+id/radioCenter1"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/radioTopRight1"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:background="@drawable/radio_blue"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioTopRight1"
+                        android:textColor="@color/schedu_blue_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioBottomRight1"
+                        android:layout_width="62dp"
+                        android:layout_height="52dp"
+                        android:layout_marginTop="@dimen/dimen_1px"
+                        android:background="@drawable/radio_blue"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/project_radioBottomRight1"
+                        android:textColor="@color/schedu_blue_text_color"
+                        android:textSize="@dimen/font_14sp" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+        <LinearLayout
+            android:id="@+id/center_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/radioGroupLayout"
+            android:layout_marginTop="@dimen/dimen_16dp"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radio1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_scheme2"
+                    android:textColor="@color/tab_text_color"
+                    android:textSize="@dimen/font_16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_scheme3"
+                    android:textColor="@color/tab_text_color"
+                    android:textSize="@dimen/font_16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/project_scheme1"
+                    android:textColor="@color/tab_text_color"
+                    android:textSize="@dimen/font_16sp" />
+            </RadioGroup>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_2dp"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/ll_slide_1"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/dimen_2dp"
+                    android:layout_weight="1"
+                    android:background="@color/colorBlue"
+                    android:orientation="horizontal"
+                    android:visibility="invisible" />
+
+                <LinearLayout
+                    android:id="@+id/ll_slide_2"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/dimen_2dp"
+                    android:layout_weight="1"
+                    android:background="@color/colorBlue"
+                    android:orientation="horizontal"
+                    android:visibility="invisible" />
+
+                <LinearLayout
+                    android:id="@+id/ll_slide_3"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/dimen_2dp"
+                    android:layout_weight="1"
+                    android:background="@color/colorBlue"
+                    android:orientation="horizontal"
+                    android:visibility="invisible" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_25dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:gravity="center"
+                    android:text="@string/project_budget"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <com.fenazola.mxcome.widget.TextSeekbar
+                    android:id="@+id/seekBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginRight="@dimen/dimen_10dp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_18dp"
+                android:scaleType="fitXY"
+                android:src="@mipmap/project_meal_choice" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@color/colorBlue"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="100dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_80dp"
+                    android:layout_above="@+id/timeTips"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/meal_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:text="套餐选择"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <GridView
+                        android:id="@+id/gridView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="@dimen/dimen_10dp"
+                        android:layout_marginTop="4dp"
+                        android:horizontalSpacing="@dimen/dimen_10dp"
+                        android:numColumns="3"
+                        android:verticalSpacing="@dimen/dimen_10dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/timeTips"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/dimen_35dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:gravity="center_vertical"
+                    android:text="预计开工"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:id="@+id/dateTime"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/timeTips"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_toRightOf="@+id/timeTips"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_16sp" />
+
+                <View
+                    android:layout_width="120dp"
+                    android:layout_height="@dimen/dimen_1px"
+                    android:layout_alignBottom="@+id/dateTime"
+                    android:layout_alignLeft="@id/dateTime"
+                    android:background="@color/white" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.fenazola.mxcome.widget.ScheduUploadLayout
+        android:id="@+id/designerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBlue"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/dimen_16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/mine_design"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/rect_schedu_design_selector"
+            android:gravity="center"
+            android:paddingBottom="9dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:text="已有设计"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/next_step"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen_12dp"
+            android:background="@mipmap/schedu_next_btn"
+            android:gravity="center"
+            android:paddingBottom="9dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:text="下一步"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+    </LinearLayout>
+
+    <com.zss.library.toolbar.CommonToolbar
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.fenazola.mxcome.widget.StyleDescLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

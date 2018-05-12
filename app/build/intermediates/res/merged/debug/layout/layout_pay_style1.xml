@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pay_style1"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="选择首付比例"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_13sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_20dp"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        android:layout_marginTop="@dimen/dimen_10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="班组进场开工前"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="泥工验收确定后"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="竣工验收确定后"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:layout_marginTop="@dimen/dimen_6dp"
+        android:paddingRight="20dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:gravity="center"
+            android:layout_marginLeft="@dimen/dimen_4dp"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_12sp">
+
+            <ImageView
+                android:id="@+id/iv_reduce"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@mipmap/reduce_num_img" />
+
+            <TextView
+                android:id="@+id/tv_number1"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_20dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rect_shape_grey_pay_style"
+                android:gravity="center"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_13sp" />
+
+            <ImageView
+                android:id="@+id/iv_add"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@mipmap/append_num_img" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tv_number2"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_20dp"
+                android:background="@drawable/rect_shape_grey_pay_style"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dimen_17dp"
+                android:paddingRight="@dimen/dimen_17dp"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_20dp"
+                android:background="@drawable/rect_shape_grey_pay_style"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dimen_17dp"
+                android:paddingRight="@dimen/dimen_17dp"
+                android:text="10%"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_20dp"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        android:layout_marginTop="@dimen/dimen_10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="五个工作日内"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="三日内"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimen_20dp"
+            android:text="三十日内"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_11sp" />
+    </RelativeLayout>
+</LinearLayout>
+
+
+

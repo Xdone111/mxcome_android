@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:divider="@drawable/line"
+            android:orientation="vertical"
+            android:showDividers="middle">
+
+            <RelativeLayout
+                android:id="@+id/widget1"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                >
+                <ImageView
+                    android:id="@+id/user_photo"
+                    android:layout_width="@dimen/dimen_50dp"
+                    android:layout_height="@dimen/dimen_50dp"
+                    android:layout_centerVertical="true"
+                    android:src="@mipmap/designer_photo"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:orientation="vertical"
+                    android:gravity="center_vertical"
+                    android:layout_toRightOf="@id/user_photo">
+                    <TextView
+                        android:id="@+id/user_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/font_16sp"
+                        android:text="奇葩设计"
+                        android:textColor="@color/black"/>
+                    <TextView
+                        android:id="@+id/user_type"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/font_14sp"
+                        android:text="装修设计师"
+                        android:layout_marginTop="@dimen/dimen_8dp"
+                        android:textColor="@color/colorGrey"/>
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:src="@mipmap/msg_check_detail"/>
+                </RelativeLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/msg_grey_bg" />
+
+            <com.zss.library.widget.CommonSwitchWidget
+                android:id="@+id/widget2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="@string/msg_chat_top"
+                app:right_image="@mipmap/right_arrow" />
+            <com.zss.library.widget.CommonSwitchWidget
+                android:id="@+id/widget9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                app:left_text="将对方加入黑名单"
+                app:right_image="@mipmap/right_arrow" />
+            <com.zss.library.widget.CommonSwitchWidget
+                android:id="@+id/widget3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="标记为不合适"
+                app:right_image="@mipmap/right_arrow" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/msg_grey_bg" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="查看历史聊天记录"
+                 />
+
+         <!--   <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="@string/msg_chat_file"
+                app:right_image="@mipmap/my_project_delete" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/msg_grey_bg" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="@string/msg_chat_bg" />-->
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="设置打招呼语" />
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:divider="@drawable/v_line"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:showDividers="middle">-->
+
+                <!--<com.zss.library.widget.CommonSwitchWidget-->
+                    <!--android:id="@+id/widget8"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:paddingLeft="@dimen/dimen_10dp"-->
+                    <!--android:paddingRight="@dimen/dimen_10dp"-->
+                    <!--app:left_text="@string/msg_chat_special"-->
+                    <!--app:right_image="@mipmap/right_arrow" />-->
+
+                <!--<com.zss.library.widget.CommonSwitchWidget-->
+                    <!--android:id="@+id/widget9"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingLeft="@dimen/dimen_10dp"-->
+                    <!--android:paddingRight="@dimen/dimen_10dp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--app:left_text="@string/msg_chat_blacklist"-->
+                    <!--app:right_image="@mipmap/right_arrow" />-->
+            <!--</LinearLayout>-->
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                app:left_text="@string/msg_chat_report" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/delete"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_40dp"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_marginRight="@dimen/dimen_20dp"
+            android:layout_marginTop="@dimen/dimen_40dp"
+            android:background="@drawable/rect_shape_blue_btn"
+            android:gravity="center"
+            android:text="确 认"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_16sp" />
+
+    </LinearLayout>
+
+</ScrollView>

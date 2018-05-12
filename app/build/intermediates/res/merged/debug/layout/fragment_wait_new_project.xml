@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible">
+
+            <com.zss.library.ptr.PtrClassicFrameLayout
+                android:id="@+id/mPtrFrame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible">
+
+                <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@mipmap/my_project_line"
+                    android:dividerHeight="@dimen/dimen_15dp" />
+
+            </com.zss.library.ptr.PtrClassicFrameLayout>
+
+        </LinearLayout>
+        <!-- <com.zss.library.ptr.PtrClassicFrameLayout
+             android:id="@+id/mPtrFrame"
+             android:visibility="visible"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+             <ListView
+                 android:id="@+id/listView"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:divider="@mipmap/my_project_line"
+                 android:dividerHeight="@dimen/dimen_15dp"/>
+
+         </com.zss.library.ptr.PtrClassicFrameLayout>-->
+        <RelativeLayout
+            android:id="@+id/show_no_project_ry"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dimen_90dp"
+                android:drawablePadding="@dimen/dimen_10dp"
+                android:drawableTop="@mipmap/project_no_order"
+                android:gravity="center"
+                android:lineSpacingExtra="@dimen/dimen_2dp"
+                android:text="当前没有房屋信息\n请录入后新建"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/text_tip"
+                android:layout_marginLeft="@dimen/dimen_12dp"
+                android:layout_marginTop="@dimen/dimen_16dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/tips_red" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="@dimen/dimen_12dp"
+                    android:text="@string/identity_choice_tips"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/text_tip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dimen_10dp"
+                android:layout_marginLeft="@dimen/dimen_35dp"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentBottom="true"
+                android:text="@string/project_choice_tips2"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_12sp" />
+        </RelativeLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_50dp"
+        android:layout_marginTop="@dimen/dimen_40dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/new_create_info"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_40dp"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_marginRight="@dimen/dimen_20dp"
+            android:background="@drawable/rect_corner_shape_white_btn"
+            android:gravity="center"
+            android:text="录入房屋信息"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_16sp" />
+
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

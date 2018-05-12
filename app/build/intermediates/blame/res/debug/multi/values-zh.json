@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 55,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 55,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 56,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 56,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 51,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 51,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 54,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 54,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 49,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 49,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 62,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 62,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 47,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 47,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 57,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 59,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 59,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 54,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 54,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 57,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 57,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 60,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 60,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 53,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 53,
+                        "endOffset": 830
+                    }
+                }
+            }
+        ]
+    }
+]

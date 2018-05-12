@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/show_ly_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:background="@drawable/corner_btn_normal_push"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tab_order_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="富湾国际"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_18sp" />
+
+
+        </LinearLayout>
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@drawable/line"
+            android:gravity="center" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_4dp">
+
+            <LinearLayout
+                android:layout_width="58dp"
+                android:layout_height="62dp"
+                android:layout_marginLeft="@dimen/dimen_16dp"
+                android:background="@mipmap/timer_bg"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/message_tv_order"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:gravity="bottom"
+                    android:text="15"
+                    android:textColor="@color/colorRed"
+                    android:textSize="@dimen/font_22sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/message_tv_order"
+                    android:layout_marginBottom="@dimen/dimen_4dp"
+                    android:layout_marginLeft="@dimen/dimen_2dp"
+                    android:layout_marginTop="-10dp"
+                    android:gravity="top"
+                    android:text="min"
+                    android:textColor="@color/colorRed"
+                    android:textSize="@dimen/font_13sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_8dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/dimen_4dp"
+                    android:text="持续派单中…"
+                    android:textColor="@color/colorRed"
+                    android:textSize="@dimen/font_18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/dimen_4dp"
+                    android:text="等待师傅确认\n平台将提供标准化施工及优质服务"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_14sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@drawable/line"
+            android:gravity="center" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/order_reward"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="赏 金"
+                android:textColor="@color/demend_bom_color"
+                android:textSize="@dimen/font_16sp" />
+
+            <TextView
+                android:id="@+id/order_cosos"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="隐 藏"
+                android:textColor="@color/demend_bom_color"
+                android:textSize="@dimen/font_16sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

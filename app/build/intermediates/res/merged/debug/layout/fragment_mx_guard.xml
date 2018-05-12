@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/top_ly"
+        android:layout_width="match_parent"
+        android:layout_height="142dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="142dp"
+            android:background="@mipmap/help_guard_bg">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dimen_35dp"
+                android:text="MX GUARD"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_title"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:text="MXCOME"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_12sp" />
+        </RelativeLayout>
+        <View
+            android:layout_width="@dimen/dimen_1px"
+            android:layout_height="55dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="@dimen/dimen_30dp"
+            android:background="@drawable/v_line" />
+    </RelativeLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/top_ly"
+        android:background="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dimen_30dp"
+                    android:background="@drawable/v_line" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="45dp"
+                        android:drawablePadding="@dimen/dimen_6dp"
+                        android:drawableRight="@mipmap/demand_decorate_shield"
+                        android:text="装修盾"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/font_15sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="45dp"
+                        android:layout_marginTop="@dimen/dimen_4dp"
+                        android:text="Decoration Shield"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_12sp" />
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="45dp"
+                        android:layout_marginTop="@dimen/dimen_15dp"
+                        android:layout_marginBottom="@dimen/dimen_15dp"
+                        android:background="@drawable/rect_corner_green"
+                        android:orientation="vertical"
+                        android:paddingBottom="@dimen/dimen_4dp"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="@dimen/dimen_10dp"
+                        android:paddingTop="@dimen/dimen_4dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="装修盾 安心无忧"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Safe and worry free"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/font_10sp" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="5dp"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+                    <TextView
+                        android:layout_width="@dimen/dimen_10dp"
+                        android:layout_height="@dimen/dimen_10dp"
+                        android:layout_marginLeft="@dimen/dimen_25dp"
+                        android:background="@drawable/my_coll_green_guard" />
+
+                    <View
+                        android:layout_width="@dimen/dimen_1px"
+                        android:layout_height="220dp"
+                        android:visibility="invisible"
+                        android:layout_marginLeft="@dimen/dimen_30dp"
+                        android:background="@drawable/v_line" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="特权一 专业第三方托管支付"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:text="Me宝-全球首家专业装修资金托管第三方;"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100%装修款委托Me宝，工程款转款专用。"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_13sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="@dimen/dimen_20dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@color/grey_bg" />
+
+                </LinearLayout>
+            </LinearLayout>
+            <RadioButton
+                android:id="@+id/printscreen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_20dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:button="@drawable/radiobutton"
+                android:text="  我已阅读并接受《MXCOME装修盾服务条款》"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:text="立即申请"
+                android:textSize="@dimen/font_14sp"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:background="@color/colorBlue"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.fenazola.mxcome.widget.clipView.CircleImageView
+        android:layout_width="@dimen/dimen_80dp"
+        android:layout_height="@dimen/dimen_80dp"
+        android:layout_alignBottom="@id/top_ly"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="-30dp"
+        android:layout_marginRight="@dimen/dimen_30dp"
+        android:layout_marginTop="@dimen/dimen_30dp"
+        android:src="@mipmap/share_mx_friend" />
+
+</RelativeLayout>

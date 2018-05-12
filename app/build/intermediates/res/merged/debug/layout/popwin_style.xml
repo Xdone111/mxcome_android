@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_b"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp">
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="中式"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="现代"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="简约"
+                android:textColor="@color/worker_color" />
+
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp">
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="日式"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="田园"
+
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:text="美式"
+                android:textColor="@color/worker_color" />
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp">
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="欧式"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="简欧"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="宜家"
+                android:textColor="@color/worker_color" />
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp">
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="北欧"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="混搭"
+
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="地中海"
+
+                android:textColor="@color/worker_color" />
+
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+        <com.fenazola.mxcome.widget.RadioGroupLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/dimen_20dp"
+            android:paddingLeft="@dimen/dimen_10dp">
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="东南亚"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_shape_grey"
+                android:button="@null"
+                android:gravity="center"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:text="新古典"
+                android:textColor="@color/worker_color" />
+
+            <RadioButton
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center" />
+        </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/trans_b"
+        android:orientation="vertical" />
+
+</LinearLayout>

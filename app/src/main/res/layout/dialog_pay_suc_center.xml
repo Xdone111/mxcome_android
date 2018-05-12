@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_pay_suc_tips"
+        android:textSize="@dimen/font_14sp"
+        android:textColor="@color/text_color"
+        android:padding="@dimen/dimen_16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dimen_16dp">
+
+        <TextView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/corner_shape_blue_pj_worker"
+            android:text="1"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_18sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp"
+            android:text="@string/project_pay_suc_step1"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorBlue" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dimen_14dp"
+        android:paddingLeft="@dimen/dimen_16dp">
+
+        <TextView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/corner_shape_blue_pj_worker"
+            android:text="2"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_18sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp"
+            android:text="@string/project_pay_suc_step2"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorBlue" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dimen_14dp"
+        android:layout_marginBottom="@dimen/dimen_14dp"
+        android:paddingLeft="@dimen/dimen_16dp">
+
+        <TextView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/corner_shape_blue_pj_worker"
+            android:text="3"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_18sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/dimen_10dp"
+            android:text="@string/project_pay_suc_step3"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorBlue" />
+
+        <TextView
+            android:id="@+id/tv_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_10dp"
+            android:text="@string/project_pay_suc_details"
+            android:layout_gravity="center"
+            android:paddingRight="@dimen/dimen_10dp"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorBlue" />
+    </LinearLayout>
+
+</LinearLayout>

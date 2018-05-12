@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_60dp"
+        android:layout_marginLeft="@dimen/dimen_40dp"
+        android:gravity="center"
+        android:layout_marginRight="@dimen/dimen_40dp"
+        android:background="@drawable/corner_btn_normal_select_worker"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:text="自选工人"
+            android:textColor="@color/white"
+            android:layout_marginRight="@dimen/dimen_16dp"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_60dp"
+            android:gravity="center"
+            android:text="官方工人"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=" 推荐"
+            android:gravity="bottom"
+            android:layout_marginBottom="14dp"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_12sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/msg_grey_bg"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_ps"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="拍摄"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_xc"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="相册"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_wz"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="位置"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_hb"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="红包"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_mp"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="名片"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/msg_chat_sc"
+            android:padding="@dimen/dimen_10dp"
+            android:drawablePadding="10dp"
+            android:text="收藏"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_50dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/msg_chat_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:scaleType="centerInside"
+                android:src="@mipmap/msg_chat_voice"/>
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/msg_et"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_msg_send_ed_bg"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:layout_marginBottom="@dimen/dimen_2dp"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_16sp" />
+
+        <TextView
+            android:id="@+id/msg_voice"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:background="@drawable/corner_msg_voice_def"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:padding="4dp"
+            android:layout_marginLeft="@dimen/dimen_4dp"
+            android:layout_marginRight="@dimen/dimen_4dp"
+            android:layout_marginTop="@dimen/dimen_4dp"
+            android:layout_marginBottom="@dimen/dimen_4dp"
+            android:layout_gravity="center_vertical"
+            android:text="按住 说话"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_16sp"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingRight="@dimen/dimen_10dp"
+            android:gravity="right">
+
+            <ImageView
+                android:id="@+id/msg_chat_ex"
+                android:layout_width="@dimen/dimen_35dp"
+                android:layout_height="@dimen/dimen_35dp"
+                android:layout_gravity="center_vertical"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/msg_chat_ex" />
+
+            <ImageView
+                android:id="@+id/msg_chat_add"
+                android:layout_width="@dimen/dimen_35dp"
+                android:layout_height="@dimen/dimen_35dp"
+                android:layout_gravity="center_vertical"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/msg_chat_add" />
+
+
+            <ImageView
+                android:id="@+id/msg_send_text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:paddingTop="@dimen/dimen_6dp"
+                android:paddingBottom="@dimen/dimen_6dp"
+                android:paddingLeft="@dimen/dimen_10dp"
+                android:paddingRight="@dimen/dimen_10dp"
+                android:scaleType="centerInside"
+                android:visibility="gone"
+                android:src="@mipmap/send_blue" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

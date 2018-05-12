@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible">
+
+
+    <LinearLayout
+        android:id="@+id/show_ly_sheji"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:background="@drawable/corner_btn_normal_push"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_8dp"
+        android:paddingTop="@dimen/dimen_8dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/tab_d_1_ly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dimen_4dp"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:layout_weight="1.0"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tab_d_1_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"
+                    android:text="付费设计"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tab_d_1_1_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.0"
+                    android:gravity="center"
+                    android:text="PAY DESIGN"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_12sp" />
+
+                <ImageView
+                    android:id="@+id/tab_d_1_iv"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_2dp"
+                    android:background="@color/colorBlue"
+                    android:scaleType="matrix" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/dimen_1px"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/dimen_8dp"
+                android:background="@color/line" />
+
+            <LinearLayout
+                android:id="@+id/tab_d_2_ly"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/dimen_4dp"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tab_d_2_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"
+                    android:text="免费设计"
+                    android:textColor="@color/circle_toolbar_color"
+                    android:textSize="@dimen/font_18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tab_d_2_1_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.0"
+                    android:gravity="center"
+                    android:text="FREE DESIGN"
+                    android:textColor="@color/circle_toolbar_color"
+                    android:textSize="@dimen/font_12sp" />
+
+                <ImageView
+                    android:id="@+id/tab_d_2_iv"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_2dp"
+                    android:background="@color/white"
+                    android:scaleType="matrix" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_8dp">
+
+            <TextView
+                android:id="@+id/pop_number_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/design_number_txt"
+                android:textColor="@color/circle_toolbar_color" />
+
+            <TextView
+                android:id="@+id/pop_number_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/design_number_wait_txt"
+                android:textColor="@color/circle_toolbar_color" />
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/radioGroupID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_8dp">
+
+            <RadioButton
+                android:id="@+id/femaleGroupID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_16dp"
+                android:button="@drawable/radiobutton"
+                android:checked="true"
+                android:text=" 高级"
+                android:textColor="@color/circle_toolbar_color" />
+
+            <RadioButton
+                android:id="@+id/maleGroupID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_16dp"
+                android:button="@drawable/radiobutton"
+                android:text=" 普通"
+                android:textColor="@color/circle_toolbar_color" />
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/main_large_corner_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_4dp">
+
+            <ImageView
+                android:id="@+id/message_iv_pop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_4dp"
+                android:src="@mipmap/message" />
+
+            <TextView
+                android:id="@+id/message_name_tv_pop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_4dp"
+                android:background="@color/colorBlue"
+                android:padding="@dimen/dimen_4dp"
+                android:text="官方"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_12sp" />
+
+            <com.fenazola.mxcome.widget.AlwaysMarqueeTextView
+                android:id="@+id/message_tv_pop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方官方" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/demand_sheji_tancu"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <com.fenazola.mxcome.widget.AutoTextView
+                android:id="@+id/show_atv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_4dp" />
+
+            <com.fenazola.mxcome.widget.AutoTextView
+                android:id="@+id/show_atv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_4dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/pop_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="取消"
+                android:textColor="@color/circle_toolbar_color"
+                android:textSize="@dimen/font_18sp" />
+
+            <TextView
+                android:id="@+id/pop_huodong"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="活动"
+                android:textColor="@color/colorRed"
+                android:textSize="@dimen/font_18sp" />
+
+            <TextView
+                android:id="@+id/pop_sure"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="确定"
+                android:textColor="@color/circle_toolbar_color"
+                android:textSize="@dimen/font_18sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="@dimen/dimen_40dp"
+        android:layout_height="@dimen/dimen_40dp"
+        android:layout_alignRight="@id/show_ly_sheji"
+        android:layout_alignTop="@id/show_ly_sheji"
+        android:src="@mipmap/demond_xianmian" />
+</RelativeLayout>

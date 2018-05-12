@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\toast_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\toast_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_push_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\anim\\dialog_push_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_top_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\interpolator_cycle.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_down.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_top_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_push_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\anim\\dialog_push_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\toast_out.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\toast_out.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_remain.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_remain.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_entry_from_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\anim_entry_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_leave_from_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\anim_leave_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\anim\\slide_in_up.xml"
+    }
+]

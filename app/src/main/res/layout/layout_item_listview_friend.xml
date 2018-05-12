@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/city_word_ly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="@dimen/dimen_4dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorBlue" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/city_word_tv"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/msg_grey_bg"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="A"
+            android:textColor="@color/colorGrey"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <com.fenazola.mxcome.widget.clipView.CircleImageView
+                android:id="@+id/photo"
+                android:layout_width="@dimen/dimen_40dp"
+                android:layout_height="@dimen/dimen_40dp"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:src="@mipmap/me_photo" />
+
+            <TextView
+                android:id="@+id/city_list_tv"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dimen_50dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="成都"
+                android:textColor="#3d3d3d"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/is_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_30dp"
+                android:src="@mipmap/radio_false" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="@dimen/dimen_60dp"
+            android:background="@drawable/line" />
+    </LinearLayout>
+
+</LinearLayout>

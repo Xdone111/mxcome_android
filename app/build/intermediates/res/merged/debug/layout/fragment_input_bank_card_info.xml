@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_16dp"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:text="请绑定新银行卡以找回密码"
+        android:textSize="@dimen/font_14sp"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:textColor="@color/colorGrey"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="@dimen/dimen_60dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="姓名"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_14sp" />
+
+        <EditText
+            android:id="@+id/phone_et"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:maxLength="11"
+            android:layout_weight="1"
+            android:background="@color/trans"
+            android:gravity="center_vertical"
+            android:inputType="phone"
+            android:hint="****子"
+            android:textColorHint="@color/colorGrey"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey" />
+        <ImageView
+            android:id="@+id/iv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:src="@mipmap/reset_pass_tips"/>
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@drawable/line"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="银行卡"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_14sp" />
+
+        <EditText
+            android:id="@+id/code_et"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:maxLength="11"
+            android:layout_weight="1"
+            android:background="@color/trans"
+            android:gravity="center_vertical"
+            android:inputType="phone"
+            android:hint="请输入卡号"
+            android:textColorHint="@color/colorGrey"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey" />
+        <ImageView
+            android:id="@+id/iv_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:src="@mipmap/input_carme"/>
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/show_next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:gravity="center"
+        android:text="下一步"
+        android:layout_marginLeft="@dimen/dimen_25dp"
+        android:layout_marginRight="@dimen/dimen_25dp"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:textSize="@dimen/font_16sp"
+        android:textColor="@color/colorGrey"
+        android:background="@drawable/corner_btn_normal_msg"/>
+</LinearLayout>

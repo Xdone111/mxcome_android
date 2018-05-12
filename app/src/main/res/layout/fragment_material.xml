@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_40dp"
+            android:background="@color/white" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/scheme_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black_b"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/scheme_bg"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:background="@mipmap/project_select_bg"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_center"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/corner_shape_white_blue"
+            android:gravity="center"
+            android:text="档次"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_15sp" />
+
+        <TextView
+            android:id="@+id/tv_jian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/dimen_10dp"
+            android:text="简"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_15sp" />
+
+        <TextView
+            android:id="@+id/tv_hao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp"
+            android:text="豪"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_15sp" />
+
+        <TextView
+            android:id="@+id/tv_she"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:padding="10dp"
+            android:text="奢"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_15sp" />
+
+        <TextView
+            android:id="@+id/tv_shu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:padding="10dp"
+            android:text="舒"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_15sp" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

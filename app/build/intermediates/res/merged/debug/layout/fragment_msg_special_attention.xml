@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/show_no_men"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_60dp"
+            android:src="@mipmap/special_attention_no_prople"/>
+        <TextView
+            android:layout_marginTop="@dimen/dimen_20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_1dp"
+            android:paddingTop="@dimen/dimen_1dp"
+            android:text="添加特别关注好友"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_marginTop="@dimen/dimen_16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_50dp"
+            android:layout_marginRight="@dimen/dimen_50dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_1dp"
+            android:lineSpacingExtra="@dimen/dimen_4dp"
+            android:paddingTop="@dimen/dimen_1dp"
+            android:text="将好友添加特别关注后，好友消息、\n圈子、话题的更新都会有特别提醒"
+            android:textColor="@color/colorGrey"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/show_lv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:dividerHeight="@dimen/dimen_1dp"
+        android:divider="@color/white"
+        android:background="@color/white"
+        android:scrollbars="none" />
+
+
+    <RelativeLayout
+        android:id="@+id/show_add_tv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_48dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_1dp"
+            android:paddingTop="@dimen/dimen_1dp"
+            android:text="添加特别关注好友"
+            android:textColor="@color/colorBlue"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/show_add_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_15dp"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:background="#ffe2e5e5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_1dp"
+            android:paddingTop="@dimen/dimen_1dp"
+            android:text="MXCOME"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="MXCOME"
+            android:textColor="@color/colorGrey"
+            android:textSize="10sp" />
+    </RelativeLayout>
+</LinearLayout>

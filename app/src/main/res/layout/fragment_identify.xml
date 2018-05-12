@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lxhRatingBar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_layout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:showDividers="middle">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorBlue"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/dimen_12dp"
+                android:paddingTop="@dimen/dimen_10dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_centerInParent="true"
+                        android:src="@mipmap/me_photo_bg" />
+
+                    <com.fenazola.mxcome.widget.clipView.CircleImageView
+                        android:id="@+id/photo"
+                        android:layout_width="@dimen/dimen_80dp"
+                        android:layout_height="@dimen/dimen_80dp"
+                        android:layout_centerInParent="true"
+                        android:src="@mipmap/me_photo" />
+                </RelativeLayout>
+
+                <!--<RatingBar-->
+                <!--android:id="@+id/ratingBar"-->
+                <!--style="@style/MyRatingBar_Idf"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/dimen_10dp" />-->
+
+                <com.example.xlhratingbar_lib.XLHRatingBar
+                    android:id="@+id/ratingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    lxhRatingBar:canEdit="false"
+                    lxhRatingBar:countSelected="3"
+                    lxhRatingBar:differentSize="false"
+                    lxhRatingBar:dividerWidth="2dp"
+                    lxhRatingBar:starCount="5"
+                    lxhRatingBar:stateResId="@drawable/ratingbar_selector"
+                    lxhRatingBar:widthAndHeight="12dp"/>
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:text="爱美的小兔子"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/head_btn1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_gravity="center"
+                android:background="@color/white"
+                android:gravity="center"
+                android:text="@string/project_base_info1"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/font_16sp" />
+
+            <include layout="@layout/layout_content_info1" />
+
+            <TextView
+                android:id="@+id/head_btn2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_gravity="center"
+                android:background="@color/white"
+                android:gravity="center"
+                android:text="@string/project_loca_info2"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/font_16sp" />
+
+            <include layout="@layout/layout_content_info2" />
+
+
+            <TextView
+                android:id="@+id/head_btn5"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_gravity="center"
+                android:background="@color/white"
+                android:gravity="center"
+                android:text="实名验证"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/font_16sp" />
+
+            <include layout="@layout/layout_content_info5" />
+
+            <TextView
+                android:id="@+id/head_btn6"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_gravity="center"
+                android:background="@color/white"
+                android:gravity="center"
+                android:text="上传证件"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/font_16sp" />
+
+            <include layout="@layout/layout_content_info6" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/msg_grey_bg"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/dimen_10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_40dp"
+                    android:layout_marginLeft="@dimen/dimen_30dp"
+                    android:layout_marginRight="@dimen/dimen_30dp"
+                    android:layout_marginTop="@dimen/dimen_20dp"
+                    android:background="@drawable/rect_corner_shape_white_btn"
+                    android:gravity="center"
+                    android:text="录入房屋信息"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_18sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_12dp"
+                    android:layout_marginTop="@dimen/dimen_16dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/tips_red" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="@dimen/dimen_12dp"
+                        android:text="@string/identity_choice_tips"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_12sp" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/dimen_10dp"
+                    android:layout_marginLeft="@dimen/dimen_35dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/project_choice_tips2"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_12sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_60dp"
+        android:layout_marginTop="@dimen/dimen_8dp"
+        android:textColor="@color/colorBlue"
+        android:hint="请输入您的招呼用语"
+        android:paddingLeft="@dimen/dimen_10dp"
+        android:textColorHint="@color/colorGrey"
+        android:textSize="@dimen/font_15sp"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:maxLines="20"
+        android:background="@drawable/corner_btn_normal_edit_set_hello"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font_12sp"
+        android:textColor="@color/colorGrey"
+        android:layout_marginTop="@dimen/dimen_8dp"
+        android:layout_marginBottom="@dimen/dimen_4dp"
+        android:layout_marginLeft="@dimen/dimen_10dp"
+        android:text="招呼内容请在20字以内"/>
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:divider="@drawable/v_line"
+    android:dividerPadding="@dimen/dimen_10dp"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:showDividers="middle">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="@dimen/dimen_20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:id="@+id/edit_project"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_16dp"
+                    android:background="@drawable/rect_corner_reset_new"
+                    android:paddingLeft="@dimen/dimen_4dp"
+                    android:paddingRight="@dimen/dimen_4dp"
+                    android:text="编辑"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/tv_addr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:textColor="@color/summary_color"
+                android:textSize="@dimen/font_12sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="@dimen/dimen_1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:background="@mipmap/project_cutoff" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/new_project"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:padding="@dimen/dimen_12dp"
+                android:text="@string/project_now_create"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/show_lin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@drawable/line" />
+
+    <TextView
+        android:id="@+id/bom_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/project_chioce_bottom_line"
+        android:visibility="gone" />
+</LinearLayout>

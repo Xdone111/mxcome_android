@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/layout_1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/dimen_6dp"
+                android:paddingRight="@dimen/dimen_6dp">
+
+
+                <TextView
+                    android:id="@+id/to_diversity_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+                    android:padding="@dimen/dimen_6dp"
+                    android:drawableLeft="@mipmap/now_time_g"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:text="三分钟快速学装修"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_13sp" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center_vertical"
+                    android:drawableLeft="@mipmap/ransfer_only_text"
+                    android:drawablePadding="@dimen/dimen_4dp"
+                    android:gravity="center"
+                    android:padding="@dimen/dimen_6dp"
+                    android:text="看文字版"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="@dimen/font_13sp" />
+
+            </RelativeLayout>
+
+            <VideoView
+                android:id="@+id/video_view"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1" />
+
+            <ImageView
+                android:id="@+id/init_video_iv"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1"
+                android:scaleType="fitXY"
+                android:src="@mipmap/decoration_video" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/layout_1"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/believe_play" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/video_view"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@mipmap/student_line" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:padding="@dimen/dimen_8dp"
+                    android:text="分段学习"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_14sp" />
+            </RelativeLayout>
+            <com.fenazola.mxcome.widget.MyGridView
+                android:layout_below="@id/layout_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:verticalSpacing="@dimen/dimen_10dp"
+                android:horizontalSpacing="@dimen/dimen_10dp"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_marginBottom="@dimen/dimen_10dp"
+                android:scrollbars="none"
+                android:id="@+id/show_list">
+
+            </com.fenazola.mxcome.widget.MyGridView>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

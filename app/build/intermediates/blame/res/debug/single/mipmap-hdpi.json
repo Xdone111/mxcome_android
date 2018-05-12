@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\msg_search_frame_b.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-hdpi\\msg_search_frame_b.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\schedu_blue_arrow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-hdpi\\schedu_blue_arrow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\schedu_yellow_arrow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-hdpi\\schedu_yellow_arrow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\custom_big_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-hdpi\\custom_big_img.png"
+    }
+]

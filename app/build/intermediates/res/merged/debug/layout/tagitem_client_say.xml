@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tag_text"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corner_normal_selector_worker"
+    android:minWidth="45dp"
+    android:minHeight="32dp"
+    android:paddingTop="@dimen/dimen_6dp"
+    android:paddingBottom="@dimen/dimen_6dp"
+    android:paddingLeft="@dimen/dimen_14dp"
+    android:paddingRight="@dimen/dimen_14dp"
+    android:gravity="center"
+    android:textSize="@dimen/font_16sp"
+    android:textColor="@color/colorBlue">
+</TextView>

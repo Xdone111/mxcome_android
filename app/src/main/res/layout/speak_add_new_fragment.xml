@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="195dp"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:background="@drawable/corner_btn_normal_faq"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_10dp">
+
+        <EditText
+            android:id="@+id/comment_et"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/trans"
+            android:gravity="left|top"
+            android:hint="请输入你想说的话"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_14sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/show_to_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:drawableRight="@mipmap/edit_grey_icon"
+            android:gravity="center"
+            android:text="请输入你想说的话"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_48dp"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/main_medium_corner_bg"
+            android:gravity="center"
+            android:text="添加视频"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorBlue"
+            android:gravity="center"
+            android:text="发 表"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_16sp" />
+    </LinearLayout>
+</RelativeLayout>

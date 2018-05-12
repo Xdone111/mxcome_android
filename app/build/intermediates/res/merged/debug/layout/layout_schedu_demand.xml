@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="680dp"
+        android:layout_height="680dp"
+        android:layout_marginLeft="-375dp">
+
+        <View
+            android:layout_width="680dp"
+            android:layout_height="680dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_blue3" />
+
+        <View
+            android:layout_width="550dp"
+            android:layout_height="550dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_blue2" />
+
+        <View
+            android:layout_width="365dp"
+            android:layout_height="365dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_white" />
+
+    </FrameLayout>
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/title_item2"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="20dp" />
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="60dp" />
+
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_item2"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="20dp" />
+
+
+    <TextView
+        android:id="@+id/choice_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title_item1"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/title_item1"
+        android:drawablePadding="@dimen/dimen_4dp"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+
+    <TextView
+        android:id="@+id/choice_item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title_item2"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/title_item2"
+        android:drawablePadding="@dimen/dimen_4dp"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+
+    <TextView
+        android:id="@+id/choice_item3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/title_item3"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/title_item3"
+        android:drawablePadding="@dimen/dimen_4dp"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/dimen_4dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="平面户型图"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <TextView
+                android:id="@+id/tips1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_6dp"
+                android:text="未上传"
+                android:textColor="@color/colorRed"
+                android:textSize="@dimen/font_14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_14dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设计效果图"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <TextView
+                android:id="@+id/tips2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_6dp"
+                android:text="未上传"
+                android:textColor="@color/colorRed"
+                android:textSize="@dimen/font_14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_14dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="工程施工图"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <TextView
+                android:id="@+id/tips3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_6dp"
+                android:text="未上传"
+                android:textColor="@color/colorRed"
+                android:textSize="@dimen/font_14sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

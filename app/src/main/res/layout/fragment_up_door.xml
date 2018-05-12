@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/fl_content_2"
+            android:background="#80000000"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/dimen_16dp"
+                android:layout_marginRight="@dimen/dimen_16dp"
+                android:background="@drawable/corner_btn_normal_push"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <LinearLayout
+                        android:id="@+id/show_left_door_ly"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_marginTop="@dimen/dimen_20dp"
+                        android:layout_marginBottom="@dimen/dimen_20dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        >
+                        <LinearLayout
+                            android:layout_width="@dimen/dimen_80dp"
+                            android:layout_height="@dimen/dimen_80dp"
+                            android:background="@drawable/corner_shape_green_sc"
+                            android:gravity="center"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="@dimen/dimen_80dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="净 网"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="@dimen/dimen_1dp"
+                                android:textSize="@dimen/font_17sp"/>
+                            <TextView
+                                android:layout_width="@dimen/dimen_80dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:layout_marginTop="@dimen/dimen_1dp"
+                                android:text="专 干"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:textSize="@dimen/font_17sp"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/dimen_16dp"
+                            android:text="长沙         深圳"
+                            android:textSize="@dimen/font_14sp"/>
+                        <TextView
+                            android:id="@+id/show_left_door_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="2dp"
+                            android:text="展开净网行动"
+                            android:textSize="@dimen/font_14sp"/>
+                    </LinearLayout>
+                    <View
+                        android:layout_width="@dimen/dimen_1dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/msg_grey_bg"/>
+                    <LinearLayout
+                        android:id="@+id/show_right_door_ly"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:layout_marginTop="@dimen/dimen_20dp"
+                        android:layout_marginBottom="@dimen/dimen_20dp"
+
+                        android:orientation="vertical"
+                        >
+                        <LinearLayout
+                            android:layout_width="@dimen/dimen_80dp"
+                            android:layout_height="@dimen/dimen_80dp"
+                            android:background="@drawable/corner_shape_blue_pj_worker"
+                            android:gravity="center"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="@dimen/dimen_80dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="专 员"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="@dimen/dimen_1dp"
+                                android:textSize="@dimen/font_17sp"/>
+                            <TextView
+                                android:layout_width="@dimen/dimen_80dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:layout_marginTop="@dimen/dimen_1dp"
+                                android:text="上 门"
+                                android:textColor="@color/white"
+                                android:textStyle="bold"
+                                android:textSize="@dimen/font_17sp"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/show_right_door_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/dimen_16dp"
+                            android:text="上门量房  教会软件"
+                            android:textSize="@dimen/font_14sp"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/dimen_2dp"
+                            android:text="签订合同  工程验收"
+                            android:textSize="@dimen/font_14sp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pay_style3"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/dimen_10dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:text="选择分期"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/font_14sp" />
+
+    <com.fenazola.mxcome.widget.RadioGroupLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_6dp"
+        android:orientation="horizontal"
+        android:padding="@dimen/dimen_6dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:duplicateParentState="true"
+            android:paddingLeft="@dimen/dimen_14dp">
+
+            <RadioButton
+                android:id="@+id/radio4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/radiobutton"
+                android:checked="true"
+                android:gravity="center_vertical|left"
+                android:text="  6个月"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:duplicateParentState="true"
+            android:gravity="center">
+
+            <RadioButton
+                android:id="@+id/radio5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/radiobutton"
+                android:gravity="center"
+                android:text="  12个月"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:duplicateParentState="true"
+            android:gravity="right"
+            android:paddingRight="@dimen/dimen_14dp">
+
+            <RadioButton
+                android:id="@+id/radio6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/radiobutton"
+                android:gravity="center_vertical|right"
+                android:text="  24个月"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+    </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:gravity="center"
+        android:text="日利率   (1千元用一月利息只需      元)"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/font_12sp" />
+</LinearLayout>
+

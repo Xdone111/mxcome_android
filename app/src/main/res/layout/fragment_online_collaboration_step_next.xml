@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/msg_grey_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/show_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/online_top_bg"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_40dp"
+                android:layout_marginRight="@dimen/dimen_40dp"
+                android:layout_marginTop="@dimen/dimen_25dp"
+                android:gravity="center_vertical"
+                android:text="移民 MXCOME 世界"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_40dp"
+                android:layout_marginRight="@dimen/dimen_40dp"
+                android:layout_marginTop="@dimen/dimen_4dp"
+                android:gravity="center_vertical"
+                android:text="MXCOME INVITES YOU TO JOIN IN COOPERATION"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_48dp"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="国内业务"
+                android:textColor="@color/online_lin_bg"
+                android:textSize="@dimen/font_14sp" />
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="海外业务"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_2dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_line_bm_1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/online_lin_bg" />
+
+            <TextView
+                android:id="@+id/tv_line_bm_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/white" />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_40dp"
+                        android:gravity="center"
+                        android:text="加入平台"
+                        android:textColor="@color/online_lin_bg"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="设计师加盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_1"
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_1"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="蓝领工人加盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_2"
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_2"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_3"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="监理师加盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_3"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_3"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_4"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="品牌商加盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_4"
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_4"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="10dp"
+                    android:background="@color/bg" />
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:gravity="center"
+                        android:text="加入联盟"
+                        android:textColor="@color/online_lin_bg"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_5"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:id="@+id/textView13"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="设计联盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_5"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_5"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_6"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="工人联盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_6"
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_6"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_6"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_7"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="监理联盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_7"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_7"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_7"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_8"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="中国装饰产业联盟"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_8"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_8"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_8"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="10dp"
+                    android:background="@color/bg" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:gravity="center"
+                        android:text="VIP通道"
+                        android:textColor="@color/online_lin_bg"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_9"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="区域合伙人"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_9"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_9"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_9"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_10"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="县级合伙人"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_10"
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_10"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_10"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_11"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="市级合伙人"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_11"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_11"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_11"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                    <LinearLayout
+                        android:id="@+id/info_title_12"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dimen_48dp"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/dimen_10dp"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:drawableLeft="@mipmap/online_down_left"
+                            android:drawablePadding="@dimen/dimen_8dp"
+                            android:gravity="center_vertical"
+                            android:text="省级合伙人"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_14sp" />
+
+                        <ImageView
+                            android:id="@+id/title_iv_12"
+
+                            android:layout_width="35dp"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/online_down_right" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/info_12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/info_tv_12"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:lineSpacingExtra="@dimen/dimen_2dp"
+                            android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                            android:textColor="@color/colorGrey"
+                            android:textSize="@dimen/font_12sp" />
+
+                        <TextView
+                            android:id="@+id/info_join_12"
+                            android:layout_width="150dp"
+                            android:layout_height="@dimen/dimen_40dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="@dimen/dimen_40dp"
+                            android:layout_marginRight="@dimen/dimen_40dp"
+                            android:layout_marginTop="@dimen/dimen_10dp"
+                            android:background="@drawable/corner_btn_normal_online"
+                            android:gravity="center"
+                            android:text="在线加盟"
+                            android:textColor="@color/online_lin_bg"
+                            android:textSize="@dimen/font_16sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@color/line" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="10dp"
+                    android:background="@color/bg" />
+
+                <LinearLayout
+                    android:id="@+id/info_title_13"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dimen_48dp"
+                    android:orientation="horizontal"
+                    android:paddingLeft="@dimen/dimen_10dp"
+                    android:paddingRight="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:drawableLeft="@mipmap/online_down_left"
+                        android:drawablePadding="@dimen/dimen_8dp"
+                        android:gravity="center_vertical"
+                        android:text="申请VIP CLUB"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_14sp" />
+
+                    <ImageView
+                        android:id="@+id/title_iv_13"
+
+                        android:layout_width="35dp"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerInside"
+                        android:src="@mipmap/online_down_right" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/info_13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/info_tv_13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/dimen_40dp"
+                        android:lineSpacingExtra="@dimen/dimen_2dp"
+                        android:text="1.分享平台全部客户 万亿市场\n2.结算平台有保障\n3.客户稳定，平台推广\n4.借阅人员时间，减少沟通"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_12sp" />
+
+                    <TextView
+                        android:id="@+id/info_join_13"
+                        android:layout_width="150dp"
+                        android:layout_height="@dimen/dimen_40dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="@dimen/dimen_40dp"
+                        android:layout_marginRight="@dimen/dimen_40dp"
+                        android:layout_marginTop="@dimen/dimen_10dp"
+                        android:background="@drawable/corner_btn_normal_online"
+                        android:gravity="center"
+                        android:text="在线加盟"
+                        android:textColor="@color/online_lin_bg"
+                        android:textSize="@dimen/font_16sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+</RelativeLayout>

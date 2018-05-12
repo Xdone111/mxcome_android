@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/msg_grey_bg"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:scrollbars="none">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="@dimen/dimen_8dp"
+           android:orientation="vertical">
+
+           <com.fenazola.mxcome.widget.MyGridView
+               android:id="@+id/listView_1"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:numColumns="3"
+               android:horizontalSpacing="@dimen/dimen_1px"
+               android:verticalSpacing="@dimen/dimen_1px"
+               android:background="@color/msg_light_grey" />
+           <com.fenazola.mxcome.widget.MyListView
+               android:id="@+id/listView"
+               android:layout_marginTop="8dp"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:background="@color/white"
+               android:dividerHeight="0dp"
+               android:divider="@color/white"
+               android:listSelector="?selectableItemBackground" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_20dp"
+                android:background="@color/msg_grey_bg"/>
+       </LinearLayout>
+
+   </ScrollView>
+</LinearLayout>

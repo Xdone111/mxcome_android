@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="帅哥"
+    android:id="@+id/tv_detail"
+    android:drawableRight="@mipmap/msg_check_detail"
+    android:drawablePadding="@dimen/dimen_4dp"
+    android:textSize="@dimen/font_14sp"
+    android:textColor="@color/colorGrey"/>

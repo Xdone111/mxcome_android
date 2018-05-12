@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_photo_loading.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ic_photo_loading.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\dialog_close.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\dialog_close.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_selected.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\btn_selected.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_back.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\btn_back.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\text_indicator_pressed.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\text_indicator_pressed.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_011.jpg",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\guide_011.jpg"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_dir.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ic_dir.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_camera.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ptr_rotate_arrow_up.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ptr_rotate_arrow_up.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\switch_open.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\switch_open.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_dir_choose.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ic_dir_choose.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\text_indicator_normal.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\text_indicator_normal.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\switch_close.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\switch_close.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_unselected.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\exploded-aar\\library\\res\\mipmap-xhdpi-v4\\btn_unselected.png"
+    }
+]

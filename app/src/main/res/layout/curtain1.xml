@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/img_curtain_ad"
+        android:layout_width="80dp"
+        android:layout_height="300dp"
+        android:layout_alignParentRight="true"
+        android:background="@color/trans"
+        android:src="@mipmap/design_detail_bg">
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorRed"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/img_curtain_rope"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_curtain_ad"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical">
+        <View
+            android:id="@+id/view_1"
+            android:layout_width="1dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="30dp"
+            android:background="@color/colorRed"
+            android:layout_centerHorizontal="true" />
+        <ImageView
+            android:layout_below="@id/view_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-16dp"
+            android:paddingBottom="5dip"
+            android:layout_centerHorizontal="true"
+            android:src="@mipmap/red_bag_img" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

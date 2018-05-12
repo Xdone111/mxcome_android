@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        <com.fenazola.mxcome.widget.clipView.CircleImageView
+            android:id="@+id/photo"
+            android:layout_width="@dimen/dimen_50dp"
+            android:layout_height="@dimen/dimen_50dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/group_default_ico" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:paddingLeft="10dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+            <TextView
+                android:gravity="center_vertical"
+                android:textColor="@color/black"
+                android:id="@+id/city_list_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginBottom="@dimen/dimen_2dp"
+                android:text="成都"/>
+            <TextView
+                android:gravity="center_vertical"
+                android:layout_marginTop="@dimen/dimen_2dp"
+                android:textColor="@color/colorGrey"
+                android:id="@+id/city_list_tv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:text="成都"/>
+        </LinearLayout>
+
+    </LinearLayout>
+    <View
+        android:id="@+id/show_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/dimen_70dp"
+        android:background="@drawable/line"/>
+</LinearLayout>

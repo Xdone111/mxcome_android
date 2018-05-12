@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/dimen_12dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_mx_friend"
+            android:text="@string/share_mx_friend" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_weixin"
+            android:text="@string/share_weixin"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_qq"
+            android:text="@string/share_qq"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_6dp"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_weixin_circle"
+            android:text="@string/share_weixin_circle"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_sina"
+            android:text="@string/share_sina"/>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawablePadding="@dimen/dimen_10dp"
+            android:textSize="@dimen/font_12sp"
+            android:textColor="@color/colorGrey"
+            android:drawableTop="@mipmap/share_qq_space"
+            android:text="@string/share_qq_space"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="contents_contact">联系人信息</string>
+    <string name="contents_email">E-mail 地址</string>
+    <string name="contents_location">经纬度</string>
+    <string name="contents_phone">电话号码</string>
+    <string name="contents_sms">短信号码</string>
+    <string name="contents_text">纯文本</string>
+    <string name="result_text">找到纯文本</string>
+
+    <string name="camera_title">提示</string>
+    <string name="camera_framework_bug">相机出现了问题，请重启设备。</string>
+    <string name="button_sure">确定</string>
+
+
+</resources>

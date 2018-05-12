@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/msg_top_bg"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/dimen_12dp"
+                android:paddingTop="@dimen/dimen_12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/dimen_25dp"
+                    android:layout_marginRight="@dimen/dimen_25dp"
+                    android:background="@drawable/msg_rect_corner_white"
+                    android:divider="@drawable/v_line"
+                    android:dividerPadding="@dimen/dimen_10dp"
+                    android:orientation="horizontal"
+                    android:showDividers="middle">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/msg_search_friend_frame" />
+
+                    </LinearLayout>
+
+                    <EditText
+                        android:id="@+id/editText"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:gravity="center"
+                        android:focusableInTouchMode="true"
+                        android:hint="@string/msg_id_text"
+                        android:paddingBottom="@dimen/dimen_10dp"
+                        android:paddingTop="@dimen/dimen_10dp"
+                        android:textColor="@color/colorGrey"
+                        android:textColorHint="@color/msg_light_grey"
+                        android:textSize="@dimen/font_15sp" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="@dimen/dimen_8dp"
+                            android:layout_marginRight="@dimen/dimen_8dp"
+                            android:scaleType="centerInside"
+                            android:src="@mipmap/msg_search_frame_ensure" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_my_code"
+                app:left_text="@string/msg_my_code"
+                app:right_image="@mipmap/right_arrow" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1px"
+                android:layout_marginLeft="@dimen/dimen_52dp"
+                android:background="@drawable/line" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_my_card"
+                app:left_text="@string/msg_my_card"
+                app:right_image="@mipmap/right_arrow" />
+
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget3"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_richscan_addfriend"
+                app:left_text="@string/msg_scan"
+                app:right_image="@mipmap/right_arrow" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1px"
+                android:layout_marginLeft="@dimen/dimen_52dp"
+                android:background="@drawable/line" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget4"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_my_acquaintance"
+                app:left_text="@string/msg_my_acquaintance"
+                app:right_image="@mipmap/right_arrow" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget5"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_new_friend"
+                app:left_text="@string/msg_new_friend"
+                app:right_image="@mipmap/right_arrow" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1px"
+                android:layout_marginLeft="@dimen/dimen_52dp"
+                android:background="@drawable/line" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget6"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_group_chat"
+                app:left_text="@string/msg_chat"
+                app:right_image="@mipmap/right_arrow" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget7"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:background="@color/white"
+                app:left_image="@mipmap/msg_friend_list"
+                app:left_text="@string/msg_friend_list"
+                app:right_image="@mipmap/right_arrow" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_1px"
+                android:layout_marginLeft="@dimen/dimen_52dp"
+                android:background="@drawable/line" />
+
+            <com.zss.library.widget.CommonTextWidget
+                android:id="@+id/widget8"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_48dp"
+                android:layout_marginBottom="@dimen/dimen_10dp"
+                android:background="@color/white"
+                android:visibility="gone"
+                app:left_image="@mipmap/msg_add_particular_interest"
+                app:left_text="@string/msg_add_particular_interest"
+                app:right_image="@mipmap/right_arrow" />
+
+            <RelativeLayout
+                android:id="@+id/widget9"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/show_left_w8_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_10dp"
+                    android:src="@mipmap/msg_add_particular_interest" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/show_left_w8_iv"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/dimen_8dp"
+                        android:text="@string/msg_add_particular_interest" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/dimen_8dp"
+                        android:text="添加特别关心后，聊天时有特殊标识和提醒"
+                        android:textColor="@color/colorGrey"
+                        android:textSize="@dimen/font_12sp" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:src="@mipmap/right_arrow" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_15dp"
+        android:layout_alignParentBottom="true"
+        android:background="#ffe2e5e5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_1dp"
+            android:paddingTop="@dimen/dimen_1dp"
+            android:text="MXCOME"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="MXCOME"
+            android:textColor="@color/colorGrey"
+            android:textSize="10sp" />
+    </RelativeLayout>
+</LinearLayout>

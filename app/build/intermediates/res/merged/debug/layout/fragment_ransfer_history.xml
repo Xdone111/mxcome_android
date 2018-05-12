@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:calendarview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/dimen_52dp">
+
+    <LinearLayout
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/radio1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorBlue"
+            android:text="百科类"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:button="@null"/>
+
+
+        <TextView
+            android:id="@+id/radio3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"
+            android:text="媒体类"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:button="@null"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/radio1_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorBlue"/>
+
+
+        <TextView
+            android:id="@+id/radio3_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+           android:background="@color/white"/>
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/top_bg"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_6dp"
+                    android:background="@color/white">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="50dp"
+                        android:onClick="lastMonth"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:id="@+id/title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:textColor="@color/colorGrey"
+
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="50dp"
+                        android:onClick="nextMonth"
+                        android:visibility="invisible" />
+
+                </RelativeLayout>
+
+                <com.othershe.calendarview.WeekView
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp" />
+
+                <com.othershe.calendarview.CalendarView
+                    android:id="@+id/calendar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    calendarview:date_end="2020.12"
+                    calendarview:date_start="1990.1" />
+            </LinearLayout>
+            <View
+                android:id="@+id/line_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/top_bg"
+                android:background="@drawable/line"/>
+            <TextView
+                android:id="@+id/toast_tv"
+                android:layout_below="@id/line_1"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:background="@color/white"
+                android:layout_height="@dimen/dimen_48dp" />
+            <View
+                android:id="@+id/view_to"
+                android:layout_below="@id/toast_tv"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/msg_grey_bg"/>
+            <com.fenazola.mxcome.widget.MyListView
+                android:id="@+id/listView"
+                android:layout_below="@id/view_to"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@drawable/line"
+                android:listSelector="?selectableItemBackground" />
+        </RelativeLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/dimen_4dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:visibility="invisible"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_grey" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="装修后"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="祝贺竣工 五星服务"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_red" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="环境监测"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="出具环境检查结果"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_2dp"
+                    android:text="评估建议入住时间"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_red" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="工程质保"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="提供工程质量保证卡"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_red" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="工程延保"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="提供工程质量延保服务"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_red" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="售后服务"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="建立终生档案,全心全意为您提供专业服务"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

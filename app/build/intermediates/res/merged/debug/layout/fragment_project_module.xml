@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/project_module_adv" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@mipmap/module_parlour">
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/project_module1"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_18sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/cb1"
+                android:layout_width="@dimen/dimen_20dp"
+                android:layout_height="@dimen/dimen_20dp"
+                android:layout_below="@+id/text1"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="@dimen/dimen_2dp"
+                android:background="@drawable/mudule_checkbox_selector"
+                android:button="@null" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@mipmap/module_bathroom">
+
+                    <TextView
+                        android:id="@+id/text2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/project_module2"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_18sp"
+                        android:textStyle="bold" />
+
+                    <CheckBox
+                        android:id="@+id/cb2"
+                        android:layout_width="@dimen/dimen_20dp"
+                        android:layout_height="@dimen/dimen_20dp"
+                        android:layout_below="@+id/text2"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="@dimen/dimen_2dp"
+                        android:background="@drawable/mudule_checkbox_selector"
+                        android:button="@null" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@mipmap/module_kitchen">
+
+                    <TextView
+                        android:id="@+id/text3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/project_module3"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_18sp"
+                        android:textStyle="bold" />
+
+                    <CheckBox
+                        android:id="@+id/cb3"
+                        android:layout_width="@dimen/dimen_20dp"
+                        android:layout_height="@dimen/dimen_20dp"
+                        android:layout_below="@+id/text3"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="@dimen/dimen_2dp"
+                        android:background="@drawable/mudule_checkbox_selector"
+                        android:button="@null" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/topic_text_color3">
+
+                    <TextView
+                        android:id="@+id/text4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/project_module4"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_18sp"
+                        android:textStyle="bold" />
+
+                    <CheckBox
+                        android:id="@+id/cb4"
+                        android:layout_width="@dimen/dimen_20dp"
+                        android:layout_height="@dimen/dimen_20dp"
+                        android:layout_below="@+id/text4"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="@dimen/dimen_2dp"
+                        android:background="@drawable/mudule_checkbox_selector"
+                        android:button="@null" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/topic_text_color2">
+
+                    <TextView
+                        android:id="@+id/text5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/project_module5"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_18sp"
+                        android:textStyle="bold" />
+
+                    <CheckBox
+                        android:id="@+id/cb5"
+                        android:layout_width="@dimen/dimen_20dp"
+                        android:layout_height="@dimen/dimen_20dp"
+                        android:layout_below="@+id/text5"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="@dimen/dimen_2dp"
+                        android:background="@drawable/mudule_checkbox_selector"
+                        android:button="@null" />
+                </RelativeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/module_bedroom">
+
+                <TextView
+                    android:id="@+id/text6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="@string/project_module6"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_18sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/cb6"
+                    android:layout_width="@dimen/dimen_20dp"
+                    android:layout_height="@dimen/dimen_20dp"
+                    android:layout_below="@+id/text6"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="@dimen/dimen_2dp"
+                    android:background="@drawable/mudule_checkbox_selector"
+                    android:button="@null" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/module_bookroom">
+
+                <TextView
+                    android:id="@+id/text7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="@string/project_module7"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_18sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/cb7"
+                    android:layout_width="@dimen/dimen_20dp"
+                    android:layout_height="@dimen/dimen_20dp"
+                    android:layout_below="@+id/text7"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="@dimen/dimen_2dp"
+                    android:background="@drawable/mudule_checkbox_selector"
+                    android:button="@null" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@mipmap/module_kids">
+
+            <TextView
+                android:id="@+id/text8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/project_module8"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_18sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/cb8"
+                android:layout_width="@dimen/dimen_20dp"
+                android:layout_height="@dimen/dimen_20dp"
+                android:layout_below="@+id/text8"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="@dimen/dimen_2dp"
+                android:background="@drawable/mudule_checkbox_selector"
+                android:button="@null" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <Button
+        style="@style/RectBtnPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next" />
+</LinearLayout>

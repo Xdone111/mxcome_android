@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/dimen_4dp"
+    android:paddingBottom="@dimen/dimen_4dp">
+    <TextView
+        android:id="@+id/show_time"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_35dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_10sp"
+        android:text="yyyy-MM-dd hh:ss"/>
+    <LinearLayout
+        android:id="@+id/ly_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <com.fenazola.mxcome.widget.clipView.CircleImageView
+            android:id="@+id/photo_l"
+            android:layout_width="@dimen/dimen_50dp"
+            android:layout_height="@dimen/dimen_50dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/me_photo" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:textColor="@color/colorGrey"
+                android:id="@+id/city_list_tv_l"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/dimen_50dp"
+                android:background="@mipmap/msg_chat_left"
+                android:layout_marginRight="@dimen/dimen_40dp"
+                android:textSize="15sp"
+                android:text="成都"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/show_check_iv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:visibility="gone"
+            android:src="@mipmap/radio_false"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ly_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorBlue"
+            android:id="@+id/city_list_tv_r"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/dimen_50dp"
+            android:background="@mipmap/msg_chat_right"
+            android:layout_marginLeft="@dimen/dimen_40dp"
+
+            android:textSize="15sp"
+            android:text="成都"/>
+        <com.fenazola.mxcome.widget.clipView.CircleImageView
+            android:id="@+id/photo_r"
+            android:layout_width="@dimen/dimen_50dp"
+            android:layout_height="@dimen/dimen_50dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/me_photo" />
+        <ImageView
+            android:id="@+id/show_check_iv_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:src="@drawable/corner_shape_grey"
+            android:visibility="gone"
+            android:layout_marginRight="@dimen/dimen_10dp"/>
+    </LinearLayout>
+</LinearLayout>

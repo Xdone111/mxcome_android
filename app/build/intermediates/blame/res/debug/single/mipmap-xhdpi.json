@@ -1,0 +1,2626 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_default_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_default_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_whole_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_whole_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_detail_img2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_detail_img2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_search_frame_ensure.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_search_frame_ensure.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_wz.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_wz.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_location.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_location.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_weixin.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_weixin.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_xbg1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_xbg1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ruanzhuang_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ruanzhuang_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_right.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_right.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_details.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_details.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shuidian_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shuidian_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\timer_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\timer_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tips_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tips_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\good_comment_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\good_comment_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_right_switch.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_right_switch.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_unit.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_unit.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_wechat.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_wechat.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_xbg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_xbg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_pyq.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_pyq.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\guide_02.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\guide_02.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_set.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_set.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab1_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab1_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_detail_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_detail_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_new_friend.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_new_friend.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_choiced.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_choiced.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_water.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_water.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youyong_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youyong_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_now_seek.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_now_seek.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_choice_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_choice_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_voice.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_voice.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_setting_default_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_setting_default_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_alipay.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_alipay.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_material.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_material.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cailiao_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\cailiao_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_under.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_under.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_medium_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_medium_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\good_comment_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\good_comment_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_tools.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_tools.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_adv1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_adv1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rec_can_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\rec_can_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_ex.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_ex.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back_black.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\back_black.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\down_white_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\down_white_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\custom_log_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\custom_log_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\buttom_yes_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\buttom_yes_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\delete_gray.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\delete_gray.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab1_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab1_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_play.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_play.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fast_deal_decorate.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fast_deal_decorate.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_previous_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_previous_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\delete_seach_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\delete_seach_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_coupon_huang.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_coupon_huang.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_seach_no_find.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_seach_no_find.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\case_like.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\case_like.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\f_and_m_attention.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\f_and_m_attention.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_info_gray.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_info_gray.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_icon_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_icon_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\women_attention_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\women_attention_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_upload_success.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_upload_success.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shoufang_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shoufang_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_y_old.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_y_old.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\set_hello_edit.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\set_hello_edit.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ruanzhuang_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ruanzhuang_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_spokesman.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_spokesman.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\canlener_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\canlener_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_loan_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_loan_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_millde.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_millde.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\student_line.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\student_line.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_mx.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_mx.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_adv2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_adv2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_text.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_text.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_worker_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_worker_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_vline.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_vline.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back_img_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\back_img_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_negative_yellow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_negative_yellow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_up_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_up_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_schedu_rate.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_schedu_rate.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_act_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_act_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_yellow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_yellow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_voice_input.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_voice_input.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\red_bag_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\red_bag_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab5_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab5_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_rc_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_rc_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_coupon_zi.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_coupon_zi.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_credit_card.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_credit_card.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_next_btn_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_next_btn_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_sc.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_sc.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_left_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_left_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_delete_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_delete_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\style_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\style_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\meiyong_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\meiyong_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_downpay_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_downpay_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_video.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_video.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_b_old.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_b_old.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_lin_in_item.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_lin_in_item.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_yellow_flag.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_yellow_flag.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_person.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_person.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_photo_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_photo_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_dy.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_dy.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_play.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_play.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\copy_attention.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\copy_attention.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_list_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_list_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\free_selected.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\free_selected.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_del_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_del_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\grade_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\grade_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_villa_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_villa_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_select_cover.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_select_cover.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\site_location_white_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\site_location_white_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_minus_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_minus_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chaigai_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chaigai_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_water_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_water_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\red_bag.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\red_bag.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\collect_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\collect_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_brick.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_brick.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_empty.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_empty.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_richscan_addfriend.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_richscan_addfriend.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\good_comment_yellow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\good_comment_yellow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\register_vcode.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\register_vcode.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\roll_out_delete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\roll_out_delete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_group_chat.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_group_chat.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\you_need_me_on.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\you_need_me_on.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_check_detail.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_check_detail.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\jubuzhuangxiu_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\jubuzhuangxiu_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_right_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_right_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_mx_friend.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_mx_friend.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_tel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_tel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img6.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img6.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\boc.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\boc.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\no_select.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\no_select.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bind_email.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\bind_email.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_client_say.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_client_say.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img5.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img5.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_foot.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_foot.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_unionpay.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_unionpay.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\radio_false.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\radio_false.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special_attention_no_prople.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\special_attention_no_prople.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\free_unselect.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\free_unselect.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\keyword_back.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\keyword_back.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_coupon_hong.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_coupon_hong.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_receiver3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_receiver3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\qrcode_send_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\qrcode_send_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_big.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_big.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\changjian_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\changjian_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_info_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_info_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\info_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\info_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\now_time_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\now_time_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_not_login.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_not_login.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_bottom_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_bottom_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decore_flow_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decore_flow_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_medium_yellow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_medium_yellow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_chioce_bottom_line.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_chioce_bottom_line.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_left_switch.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_left_switch.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shuidian_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shuidian_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_lv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_lv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\resu_look_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\resu_look_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhuiquan_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhuiquan_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_wallpaper.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_wallpaper.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\site_live_watch_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\site_live_watch_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_site_monitor_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_site_monitor_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\toast_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\toast_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\site_monitor_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\site_monitor_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_coupon_right_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_coupon_right_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_send_loading.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_send_loading.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image4.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image4.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\left_arrow_pre.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\left_arrow_pre.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bind_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\bind_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\info_jewel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\info_jewel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_info_edit.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_info_edit.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_right_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_right_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_tab.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_tab.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\act_disc_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\act_disc_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\guide_03.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\guide_03.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\case_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\case_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_unselect_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_unselect_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_detail_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_detail_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_ad.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_ad.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\weather_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\weather_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab2_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab2_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_detail_img3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_detail_img3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_set_about.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_set_about.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_group_gv_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\add_group_gv_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\sheji_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\sheji_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_my_acquaintance.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_my_acquaintance.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_aircraft.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_aircraft.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\w_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\w_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_friend_list.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_friend_list.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_phone_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_phone_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_yellow_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_yellow_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_right_top1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_right_top1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_sy.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_sy.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_module_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_module_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img7.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img7.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_w_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_w_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_add_friend_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_add_friend_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\opening_service_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\opening_service_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_down_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_down_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\confirm_order.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\confirm_order.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_center_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_center_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_detail_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_detail_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\faq_bom.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\faq_bom.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_curtain.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_curtain.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_sina.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_sina.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_city_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_city_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_talk.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_talk.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_coating.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_coating.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_add_detail.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_add_detail.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cailiao_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\cailiao_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_female_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_female_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_search_friend_frame.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_search_friend_frame.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_group_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\add_group_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_xc.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_xc.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_photo_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_photo_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_pull.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_pull.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_commodity_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_commodity_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\server_pull_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\server_pull_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cancel_attention_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\cancel_attention_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_comment.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_comment.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_add_friend.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_add_friend.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_diary_location.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_diary_location.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_corner.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_corner.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_left_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_left_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_grey_back.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grey_back.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg4.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg4.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_left_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_left_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\right_arrow_pre.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\right_arrow_pre.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_adv2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_adv2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\reset_pass_tips.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\reset_pass_tips.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_default.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_default.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\reduce_num_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\reduce_num_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pull_down.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pull_down.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_right_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_right_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\no_msg_to_service.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\no_msg_to_service.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_right_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_right_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\detail_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\detail_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_schedu_btn.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_schedu_btn.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_ps.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_ps.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_commodity_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_commodity_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_set_update_clean.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_set_update_clean.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calcalate_wall.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calcalate_wall.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_2_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_2_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_name.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_name.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_parlour.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_parlour.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_receiver1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_receiver1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_designer_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_designer_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_bedroom.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_bedroom.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_default_icon_des.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_default_icon_des.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\keyword_sure.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\keyword_sure.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_yellow_trans.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_yellow_trans.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_select_bg_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_select_bg_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_top_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_top_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\register_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\register_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_negative_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_negative_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_sender1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_sender1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ccb.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ccb.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_img2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_img2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_location.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_location.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\person_info_woman.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\person_info_woman.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_msg_gray.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_msg_gray.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demend_bom_line.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demend_bom_line.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_add.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_add.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zhengtizhuangxiu_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\zhengtizhuangxiu_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_triangle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_triangle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_wechat.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_wechat.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_zy.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_zy.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_whole_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_whole_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\dongjie_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\dongjie_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_blue_flag.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_blue_flag.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img4.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img4.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_downpay_problem.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_downpay_problem.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\help_guard_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\help_guard_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_name_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_name_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg6.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg6.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_text.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_text.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\security_center_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\security_center_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_comment.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_comment.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_choice_item.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_choice_item.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\custom_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\custom_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_sender3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_sender3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_message.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_message.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_refresh.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_refresh.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\information_next.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\information_next.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_shield.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_shield.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_play_voice.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_play_voice.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_selected_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_selected_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\select_bank_card.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\select_bank_card.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_setting_top_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_setting_top_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_topic.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_topic.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_count.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_count.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\style_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\style_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\feedback_rd_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\feedback_rd_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_cart.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_cart.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fuwutiaokuan_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fuwutiaokuan_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\up_door_service.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\up_door_service.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_add_particular_interest.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_add_particular_interest.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_del_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_del_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\yusuan_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\yusuan_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_down_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_down_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_vs_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_vs_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_right_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_right_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_mp.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_mp.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rec_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\rec_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_blue_trans.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_blue_trans.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\give_me_service.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\give_me_service.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_delete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_delete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_icon3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_icon3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_register.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_register.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_default_icon_work.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_default_icon_work.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_left_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_left_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_send.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_send.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_complete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_complete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tel_server.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tel_server.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\real_name_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\real_name_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_seletct_add.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_seletct_add.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_large_corner.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_large_corner.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_about_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_about_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_me_bao.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_me_bao.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_telworker.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_telworker.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_desiger_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_desiger_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_template.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_template.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_luck_draw_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_luck_draw_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_small.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_small.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\visitor_add_friend.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\visitor_add_friend.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\input_carme.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\input_carme.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_delete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_delete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_my_code.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_my_code.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\style_del.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\style_del.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_detail_comment.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_detail_comment.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_worker_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_worker_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\caigou_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\caigou_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\open_wechar_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\open_wechar_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_scheme_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_scheme_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_module_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_module_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_receiver2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_receiver2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_check_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_check_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\visitor_clear.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\visitor_clear.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\edit_grey_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\edit_grey_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\guide_hot.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\guide_hot.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zijinzengzi_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\zijinzengzi_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_1_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_1_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_house.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_house.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\contact_us_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\contact_us_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\to_mepay.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\to_mepay.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img7.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img7.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fastdeal_no_data.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fastdeal_no_data.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\act_artisan_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\act_artisan_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_default_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_default_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\info_jewel_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\info_jewel_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shoufang_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shoufang_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_man_client.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_man_client.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_kitchen.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_kitchen.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_voice_unread.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_voice_unread.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_my_card.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_my_card.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_voice.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_voice.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_price.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_price.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pinglun_g.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pinglun_g.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\server_pull.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\server_pull.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\start_1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\start_1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_visitor_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_visitor_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_see_meterial.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_see_meterial.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_designer.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_designer.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\loan_adv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\loan_adv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_pwd.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_pwd.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab3_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab3_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\choice_meal_select.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\choice_meal_select.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_service_content.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_service_content.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_ago_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_ago_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tool_gradienter_ball.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tool_gradienter_ball.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_change.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_change.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_down.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_down.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\free_designer_back.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\free_designer_back.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_right_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_right_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_check_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_check_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_title.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_title.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_add.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_add.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_only_text.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_only_text.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_accredit_pay.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_accredit_pay.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_dlist.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_dlist.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_phone.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_phone.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_voice_message.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_voice_message.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img8.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img8.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\g_toast_pinglun.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\g_toast_pinglun.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_text_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_text_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image5.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image5.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\about_law.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\about_law.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\info_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\info_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_yellow_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_yellow_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\left_arrow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_security_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_security_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_voice_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_voice_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\account_alipay.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\account_alipay.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_set_push_switch.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_set_push_switch.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_modify.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_modify.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_send_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_send_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fast_dispose_official.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fast_dispose_official.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_pay_detail.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_pay_detail.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demond_act.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demond_act.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_voice_bottom_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_voice_bottom_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_send_fail.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_send_fail.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_chat.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_chat.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_center_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_center_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_help.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_help.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\dongjie_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\dongjie_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab3_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab3_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_talk.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_talk.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\role_colose.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\role_colose.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_no_order.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_no_order.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\yusuan_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\yusuan_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pepoer_server_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pepoer_server_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_adv1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_adv1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_qq_space.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_qq_space.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_default_icon_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_default_icon_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shigong_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shigong_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_hb.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_hb.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shiyongshouce_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\shiyongshouce_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_set_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_set_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img4.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img4.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab4_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab4_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_cutoff.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_cutoff.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\free_designer_bg_top.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\free_designer_bg_top.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_blue_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_blue_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\yiyou_des_bt.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\yiyou_des_bt.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_buy_list.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_buy_list.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_welcome.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_welcome.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_icon1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_icon1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\set_hello_add.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\set_hello_add.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_zi.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_zi.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_top_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_top_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zhuangxiudaikuan_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\zhuangxiudaikuan_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_search.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_search.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_pull_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_pull_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_red_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_red_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tool_gradienter_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tool_gradienter_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\danxiangyewu_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\danxiangyewu_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_module_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_module_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\voice_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\voice_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_city.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_city.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_line.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_line.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ruzhu_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ruzhu_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rec_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\rec_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_center.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_center.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\checkout_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\checkout_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_house_info.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_house_info.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_bookroom.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_bookroom.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\guard_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\guard_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tips_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tips_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_shiyong.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_shiyong.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_look.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_look.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_dis_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_dis_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_collect.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_collect.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_top_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_top_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_ok.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_ok.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_adv3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_adv3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\radio_true.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\radio_true.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_kids.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_kids.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_password.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_password.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\sheji_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\sheji_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\identity_frame.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\identity_frame.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculate_board.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculate_board.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\act_top_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\act_top_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\dialog_close_password.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\dialog_close_password.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_now_schedu.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_now_schedu.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_input_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_input_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_photo_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_photo_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_info_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_info_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decoration_video.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decoration_video.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\right_arrow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_text_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_text_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img8.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img8.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chaigai_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chaigai_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\design_triangle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\design_triangle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ruzhu_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ruzhu_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\site_live_play_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\site_live_play_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\about_copu_ad.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\about_copu_ad.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\colose_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\colose_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\calculation_result_top_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\calculation_result_top_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_corner.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_corner.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_project_show.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_project_show.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_no_delete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_no_delete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab5_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab5_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tel_server_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tel_server_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\about_back_leadpage.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\about_back_leadpage.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_new.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_new.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rec_can_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\rec_can_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_map.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_map.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\site_live_pause_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\site_live_pause_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_add.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_discount_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_discount_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_set.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_set.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_shield.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_shield.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\believe_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\believe_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_bottom_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_bottom_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\login_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_select_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_select_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_pause.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_pause.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\about_praise.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\about_praise.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tianjiahaoyou_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tianjiahaoyou_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\edit_comment.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\edit_comment.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\meiyong_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\meiyong_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\choice_meal_noselect.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\choice_meal_noselect.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\men_attention_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\men_attention_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_seach_ok_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_seach_ok_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_fullscreen.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_fullscreen.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_edit.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_edit.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_icon_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_icon_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_up.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_up.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_blue_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_blue_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_meal_green_btn.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_meal_green_btn.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_pay_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_pay_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_detail_img1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_detail_img1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img6.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img6.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\circle_picture.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\circle_picture.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_center_voice_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_center_voice_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demend_three_sel_one_ad.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demend_three_sel_one_ad.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\circle_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\circle_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\new_coupon_lv.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\new_coupon_lv.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_friend_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_friend_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img5.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img5.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\send_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\send_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\information_last.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\information_last.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\line_comment.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\line_comment.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_next_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_next_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\module_bathroom.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\module_bathroom.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\w_qcode.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\w_qcode.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_days.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_days.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\set_hello_delete.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\set_hello_delete.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_white.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_white.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\desiger_list_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\desiger_list_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\message.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\case_back.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\case_back.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_meal_choice.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_meal_choice.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\selected.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\selected.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_icon2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_icon2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\about_fenazona.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\about_fenazona.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_left.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_left.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_img1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_img1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_member.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_member.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_schedu.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_schedu.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\schedu_next_btn.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\schedu_next_btn.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image6.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image6.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_collect.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_collect.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_yellow.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_yellow.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_title.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_title.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youyong_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youyong_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_pay_dottedline.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_pay_dottedline.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\worker_title.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\worker_title.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\chat_voice_sender2.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\chat_voice_sender2.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_negative_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_negative_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_grey_img3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_grey_img3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_sheji_tancu.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_sheji_tancu.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\free_designer_bg_below.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\free_designer_bg_below.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_left.9.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_left.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_project_point.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\my_project_point.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cupon_top_left_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\cupon_top_left_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\youhui_shixiao.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\youhui_shixiao.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ruzhu_ico_title.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ruzhu_ico_title.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\feedback_rd_select.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\feedback_rd_select.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\w_add_find.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\w_add_find.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_weixin_circle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_weixin_circle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_fangshui.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_fangshui.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\seach_group_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\seach_group_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\monitor_plus_icon.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\monitor_plus_icon.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_icon4.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_icon4.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ransfer_media_praise.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\ransfer_media_praise.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pay_account_balance.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\pay_account_balance.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_thanks_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_thanks_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\decorate_blue_img1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\decorate_blue_img1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_map.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_map.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\diary_detail_collect.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\diary_detail_collect.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_thred_line.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_thred_line.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_friends.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_friends.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\append_num_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\append_num_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\designer_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\designer_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\topic_bg5.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\topic_bg5.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_text.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_text.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\act_look_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\act_look_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\group_setting_qc.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\group_setting_qc.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_whole_yuan.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_whole_yuan.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\add_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_star_deep_blue.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_star_deep_blue.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_progress_right.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_progress_right.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\share_qq.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\share_qq.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cellege_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\cellege_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demond_xianmian.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demond_xianmian.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\zhunbei_ico.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\zhunbei_ico.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\jiedong_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\jiedong_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\me_tab_msg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\me_tab_msg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_adv3.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_adv3.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\online_service.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\online_service.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\dpecial_attention_w.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\dpecial_attention_w.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_bottom_blue_edit.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_bottom_blue_edit.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\no_visitor_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\no_visitor_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\open_server_wave.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\open_server_wave.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab2_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab2_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\input_edit_red.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\input_edit_red.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_triangle.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_triangle.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_villa_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_villa_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\reward_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\reward_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\juesetiyan_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\juesetiyan_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\msg_chat_voice.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\msg_chat_voice.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\comment_medium_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\comment_medium_grey.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\speak_share.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\speak_share.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\project_blue_def.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\project_blue_def.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\order_blue_bg.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\order_blue_bg.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\user_photo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\user_photo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\act_endorsement_img.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\act_endorsement_img.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab4_sel.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\tab4_sel.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fund_image1.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\fund_image1.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\main_center_logo.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\main_center_logo.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_decorate_shield.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_decorate_shield.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\demand_top_grey.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\mxcome_android\\app\\src\\main\\res\\mipmap-xhdpi\\demand_top_grey.png"
+    }
+]

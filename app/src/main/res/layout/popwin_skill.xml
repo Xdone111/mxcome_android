@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_b"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_10dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:text="拆改" />
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:button="@null"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:text="水电" />
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:button="@null"
+                    android:text="泥工" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:button="@null"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:text="木工" />
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:button="@null"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:text="油漆" />
+
+                <CheckBox
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/rect_shape_grey"
+                    android:textColor="@color/worker_color"
+                    android:button="@null"
+                    android:text="地板" />
+
+            </TableRow>
+
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:text="点击可多选"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_14sp" />
+
+
+        <LinearLayout
+            android:id="@+id/bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/dimen_16dp">
+
+            <Button
+                android:id="@+id/reset"
+                android:background="@color/colorReset"
+                android:textColor="@color/colorBlue"
+                android:textSize="@dimen/font_16sp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/reset" />
+
+            <Button
+                android:id="@+id/next"
+                style="@style/RectBtnPrimary"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="完成" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/trans_b"
+        android:orientation="vertical" />
+
+</LinearLayout>

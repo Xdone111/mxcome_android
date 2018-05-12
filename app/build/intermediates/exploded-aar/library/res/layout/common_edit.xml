@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.TextInputLayout
+    android:id="@+id/common_text_input"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColorHint="@color/text_hint_color"
+    android:paddingTop="@dimen/dimen_2dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textColor="@color/text_color"
+        android:textColorHint="@color/text_hint_color"
+        android:background="@null"
+        android:textSize="@dimen/font_16sp"
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/dimen_6dp"
+        android:paddingBottom="@dimen/dimen_10dp"/>
+
+</android.support.design.widget.TextInputLayout>

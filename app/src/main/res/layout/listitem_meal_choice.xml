@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/meal"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:background="@mipmap/choice_meal_noselect"
+    android:gravity="center"
+    android:paddingBottom="@dimen/dimen_10dp"
+    android:paddingLeft="@dimen/dimen_10dp"
+    android:paddingRight="@dimen/dimen_10dp"
+    android:textColor="@color/white"
+    android:textSize="@dimen/font_16sp" />

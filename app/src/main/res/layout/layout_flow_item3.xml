@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_4dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:visibility="invisible"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_grey" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="装修前"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="录入基础信息"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_blue_pj_worker"
+                    android:paddingTop="4dp" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="在线预报价"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="一分钟"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_red" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="@dimen/dimen_50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="免费上门量房"
+                        android:textColor="@color/grey"
+                        android:textSize="@dimen/font_14sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="*虚拟建模"
+                        android:textColor="@color/colorBlue"
+                        android:textSize="@dimen/font_14sp" />
+                </LinearLayout>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="MX专员上门精准量房"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_zi" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="@dimen/dimen_50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="教你使用软件"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="3分钟宝学会"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_green_sc" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="@dimen/dimen_50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="装修盾"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="施工 付款 验收 售后"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_2dp"
+                    android:text="全方位维护用户权益"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_yellow" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="@dimen/dimen_50dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="选中设计方案"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="免费/付费"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+                <TextView
+                    android:layout_width="@dimen/dimen_10dp"
+                    android:layout_height="@dimen/dimen_10dp"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/corner_shape_blue_pj_worker" />
+
+                <View
+                    android:layout_width="@dimen/dimen_1px"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="@dimen/dimen_20dp"
+                    android:background="@drawable/v_line" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="选中装修方案"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/font_14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:text="系统建立工程实例"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_12sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

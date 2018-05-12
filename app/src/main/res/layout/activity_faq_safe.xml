@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="16dp"
+                android:text="热门问题"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_14sp" />
+
+            <com.fenazola.mxcome.widget.MyListView
+                android:id="@+id/listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:divider="@drawable/line"
+                android:dividerHeight="@dimen/dimen_1px"
+                android:listSelector="?selectableItemBackground" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="16dp"
+                android:text="问题分类"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_14sp" />
+
+            <com.fenazola.mxcome.widget.MyGridView
+                android:id="@+id/listView_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/line"
+                android:horizontalSpacing="@dimen/dimen_1px"
+                android:numColumns="2"
+                android:verticalSpacing="@dimen/dimen_1px" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/fandback_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="意见反馈"
+            android:textColor="@color/colorBlue"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+</LinearLayout>

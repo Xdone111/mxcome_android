@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            app:mcv_selectionColor="@color/colorGreen"
+            app:mcv_showOtherDates="all"
+            app:mcv_tileHeight="32dp" />
+        <View
+            android:id="@+id/line_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/calendarView"
+            android:background="@drawable/line"/>
+        <TextView
+            android:id="@+id/toast_tv"
+            android:layout_below="@id/line_1"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textColor="@color/colorGrey"
+            android:background="@color/white"
+            android:layout_height="@dimen/dimen_48dp" />
+        <View
+            android:id="@+id/view_to"
+            android:layout_below="@id/toast_tv"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:background="@color/msg_grey_bg"/>
+        <com.fenazola.mxcome.widget.MyListView
+            android:id="@+id/listView"
+            android:layout_below="@id/view_to"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@drawable/line"
+            android:listSelector="?selectableItemBackground" />
+    </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>

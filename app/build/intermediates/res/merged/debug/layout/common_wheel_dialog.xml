@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/common_ll_bottom"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/common_btn_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="left"
+            android:padding="@dimen/dimen_10dp"
+            android:lines="1"
+            android:text="@string/colse"
+            android:textColor="@color/grey"
+            android:textSize="@dimen/font_16sp" />
+
+        <Button
+            android:id="@+id/common_btn_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="right"
+            android:padding="@dimen/dimen_10dp"
+            android:lines="1"
+            android:text="@string/confirm"
+            android:textColor="@color/grey"
+            android:textSize="@dimen/font_16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/common_ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:minHeight="150dp">
+
+    </LinearLayout>
+
+</LinearLayout>

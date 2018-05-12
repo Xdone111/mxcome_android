@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_20dp"
+        android:paddingLeft="@dimen/dimen_35dp"
+        android:paddingRight="@dimen/dimen_30dp"
+        android:paddingTop="@dimen/dimen_16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_1_1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="房间长度"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <EditText
+                android:id="@+id/et_1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/line_bg"
+                android:gravity="center"
+                android:inputType="number"
+                android:textColor="@color/colorBlue" />
+
+            <TextView
+                android:id="@+id/tv_1_2"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="米"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_2_1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="房间宽度"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <EditText
+                android:id="@+id/et_2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/line_bg"
+                android:gravity="center"
+
+                android:inputType="number"
+                android:textColor="@color/colorBlue" />
+
+            <TextView
+                android:id="@+id/tv_2_2"
+
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="米"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_3_1"
+
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="地板长度"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <EditText
+                android:id="@+id/et_3"
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/line_bg"
+
+                android:gravity="center"
+
+                android:inputType="number"
+                android:textColor="@color/colorBlue" />
+
+            <TextView
+                android:id="@+id/tv_3_3"
+
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="毫米"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_4_1"
+
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="地板宽度"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <EditText
+                android:id="@+id/et_4"
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/line_bg"
+                android:gravity="center"
+                android:inputType="number"
+                android:textColor="@color/colorBlue" />
+
+            <TextView
+                android:id="@+id/tv_4_2"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="毫米"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_5_1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="地板单价"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+
+            <EditText
+                android:id="@+id/et_5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/line_bg"
+
+                android:gravity="center"
+
+                android:inputType="number"
+                android:textColor="@color/colorBlue" />
+
+            <TextView
+                android:id="@+id/tv_5_2"
+
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="元/块"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

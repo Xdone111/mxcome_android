@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/project_adv"/>
+
+    <LinearLayout
+        android:layout_below="@id/iv_1"
+        android:id="@+id/ly_1"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/nav1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/project_nav1"
+            android:background="@null"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"/>
+
+        <Button
+            android:id="@+id/nav2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/project_nav2"
+            android:background="@null"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"/>
+
+        <Button
+            android:id="@+id/nav3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/project_nav3"
+            android:background="@null"
+            android:textSize="@dimen/font_14sp"
+            android:textColor="@color/colorGrey"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_below="@+id/ly_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <com.fenazola.mxcome.widget.ToolMXLine
+            android:id="@+id/mx_line"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/main_map"
+            android:layout_centerHorizontal="true"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/dimen_16dp">
+
+            <com.fenazola.mxcome.widget.CircleMenuLayout
+                android:id="@+id/id_menulayout"
+                android:layout_width="260dp"
+                android:layout_height="260dp"
+                android:layout_gravity="center"
+                android:background="@mipmap/main_large_corner" >
+
+                <RelativeLayout
+                    android:id="@+id/id_circle_menu_item_center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/main_medium_corner_bg">
+
+                    <ImageView
+                        android:id="@+id/center_icon"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_centerInParent="true"
+                        android:background="@mipmap/project_corner" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:id="@+id/ll_progress"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:visibility="gone">
+
+                            <TextView
+                                android:id="@+id/tv_progress"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="90"
+                                android:textSize="@dimen/font_30sp"
+                                android:textColor="@color/colorBlue"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:text="%"
+                                android:textSize="@dimen/font_12sp"
+                                android:gravity="bottom"
+                                android:paddingBottom="@dimen/dimen_4dp"
+                                android:textColor="@color/colorBlue"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/tv_addr"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:gravity="center"
+                            android:textSize="@dimen/font_14sp"
+                            android:textColor="@color/colorBlue" />
+
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/change_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/project_left"
+                        android:layout_toLeftOf="@+id/center_icon"
+                        android:layout_marginRight="@dimen/dimen_6dp"
+                        android:layout_centerVertical="true"/>
+
+                    <ImageView
+                        android:id="@+id/change_right"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/project_right"
+                        android:layout_toRightOf="@+id/center_icon"
+                        android:layout_marginLeft="@dimen/dimen_6dp"
+                        android:layout_centerVertical="true"/>
+                    <ImageView
+                        android:id="@+id/center_icon_toos"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_centerInParent="true"
+                        android:visibility="gone"
+                        android:background="@mipmap/project_tools" />
+                </RelativeLayout>
+            </com.fenazola.mxcome.widget.CircleMenuLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/mainMXImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/main_mx"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:visibility="invisible"/>
+    </RelativeLayout>
+</RelativeLayout>

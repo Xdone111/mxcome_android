@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/font_14sp"
+        android:text="1111"
+        android:textColor="@color/colorGrey"
+        android:layout_marginTop="@dimen/dimen_25dp"
+        android:layout_marginBottom="@dimen/dimen_8dp"/>
+    <ImageView
+        android:id="@+id/sub_iv"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="@dimen/dimen_40dp"
+        android:layout_height="@dimen/dimen_40dp"
+        android:src="@mipmap/up_door_service"
+        android:scaleType="centerInside"
+        android:layout_marginBottom="@dimen/dimen_25dp"/>
+</LinearLayout>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/right_fy_ly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="#f3f3f3"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="筛选"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_15sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_25dp"
+            android:text="类别"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_13sp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="官方"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="个人"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_20dp"
+            android:text="距离"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_13sp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="2KM"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="4KM"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dimen_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="6KM"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+
+            <RadioButton
+                style="@style/TextButtonBg2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_grey_blue_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="8KM+"
+                android:textColor="@color/worker_color"
+                android:textSize="@dimen/font_13sp" />
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_20dp"
+            android:text="热度"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_13sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:orientation="vertical">
+
+            <com.fenazola.mxcome.widget.RadioGroupLayout
+                android:id="@+id/radio_layout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_grey_blue_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="上升最快"
+                    android:textColor="@color/worker_color"
+                    android:textSize="@dimen/font_13sp" />
+
+
+                <RadioButton
+                    android:id="@+id/radioButton2"
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_grey_blue_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="优秀员工"
+                    android:textColor="@color/worker_color"
+                    android:textSize="@dimen/font_13sp" />
+
+
+                <RadioButton
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_grey_blue_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="蓝领明星"
+                    android:textColor="@color/worker_color"
+                    android:textSize="@dimen/font_13sp" />
+
+                <RadioButton
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_grey_blue_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="百佳工人"
+                    android:textColor="@color/worker_color"
+                    android:textSize="@dimen/font_13sp" />
+
+            </com.fenazola.mxcome.widget.RadioGroupLayout>
+
+            <com.fenazola.mxcome.widget.RadioGroupLayout
+                android:id="@+id/radio_layout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    style="@style/TextButtonBg2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_grey_blue_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="中国巨匠"
+                    android:textColor="@color/worker_color"
+                    android:textSize="@dimen/font_13sp" />
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_13sp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_13sp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_13sp" />
+            </com.fenazola.mxcome.widget.RadioGroupLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/reset"
+            style="@style/RectBtnNormal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/reset"
+            android:textSize="@dimen/font_13sp" />
+
+        <Button
+            android:id="@+id/next"
+            style="@style/RectBtnPrimary"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="完成"
+            android:textSize="@dimen/font_13sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_layout"
+        android:layout_marginBottom="@dimen/dimen_60dp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/demand_select_bg_adv" />
+
+</RelativeLayout>

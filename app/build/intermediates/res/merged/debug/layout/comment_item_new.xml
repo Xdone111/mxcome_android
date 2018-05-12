@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:paddingBottom="@dimen/dimen_10dp"
+android:paddingTop="@dimen/dimen_10dp">
+
+<com.fenazola.mxcome.widget.clipView.CircleImageView
+    android:id="@+id/image1"
+    android:layout_marginTop="@dimen/dimen_8dp"
+    android:layout_width="@dimen/dimen_48dp"
+    android:layout_height="@dimen/dimen_48dp"
+    android:layout_marginLeft="@dimen/dimen_20dp"
+    android:src="@mipmap/me_photo" />
+
+<LinearLayout
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/dimen_10dp"
+    android:layout_marginTop="@dimen/dimen_10dp"
+    android:layout_toRightOf="@+id/image1">
+
+    <TextView
+        android:id="@+id/nikeName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="用户名"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_13sp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:text="3天前"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_13sp" />
+
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/LinearLayout1"
+    android:layout_marginLeft="@dimen/dimen_10dp"
+    android:layout_marginTop="@dimen/dimen_4dp"
+    android:layout_toRightOf="@+id/image1">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:text="工作质量"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_10sp" />
+
+        <RatingBar
+            android:id="@+id/ratingBar1"
+            style="@style/smallRatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:isIndicator="true"
+            android:numStars="5"
+            android:stepSize="1.0"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:text="服务态度"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_10sp" />
+
+        <RatingBar
+            android:id="@+id/ratingBar2"
+            style="@style/smallRatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:isIndicator="true"
+            android:numStars="5"
+            android:stepSize="1.0"/>
+    </LinearLayout>
+</LinearLayout>
+
+<TextView
+    android:id="@+id/show_msg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/LinearLayout"
+    android:layout_marginLeft="@dimen/dimen_10dp"
+    android:layout_marginTop="@dimen/dimen_4dp"
+    android:layout_toRightOf="@+id/image1"
+    android:text="特别好的师傅，态度好，服务好"
+    android:textColor="@color/colorGrey"
+    android:textSize="@dimen/font_14sp" />
+
+</RelativeLayout>

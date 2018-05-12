@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:background="@color/colorBlue">
+
+           <ImageView
+               android:id="@+id/immg_progress_bg"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@mipmap/project_progress_bg"
+               android:layout_centerHorizontal="true" />
+
+           <TextView
+               android:id="@+id/tv_pay_amt"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignLeft="@+id/immg_progress_bg"
+               android:layout_centerVertical="true"
+               android:gravity="center"
+               android:text="@string/project_pay_amt"
+               android:layout_marginLeft="@dimen/dimen_20dp"
+               android:textColor="@color/white"
+               android:textSize="@dimen/font_12sp"/>
+
+           <RelativeLayout
+               android:id="@+id/rl_center"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_centerInParent="true">
+
+               <LinearLayout
+                   android:id="@+id/ll_progress"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerHorizontal="true"
+                   android:orientation="horizontal">
+
+                   <TextView
+                       android:id="@+id/tv_total_progress"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="26"
+                       android:gravity="center"
+                       android:textColor="@color/white"
+                       android:textSize="35sp"/>
+
+                   <TextView
+                       android:id="@+id/tv_progress"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="%"
+                       android:textColor="@color/white"
+                       android:textSize="@dimen/font_16sp"/>
+
+               </LinearLayout>
+
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_below="@+id/ll_progress"
+                   android:text="@string/project_total_progress"
+                   android:gravity="center"
+                   android:textColor="@color/white"
+                   android:textSize="@dimen/font_12sp"/>
+
+           </RelativeLayout>
+
+           <TextView
+               android:id="@+id/tv_building"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignRight="@+id/immg_progress_bg"
+               android:layout_centerVertical="true"
+               android:gravity="center"
+               android:layout_marginRight="@dimen/dimen_20dp"
+               android:textColor="@color/white"
+               android:textSize="@dimen/font_12sp"/>
+
+       </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBlue"
+            android:paddingTop="@dimen/dimen_10dp"
+            android:paddingBottom="@dimen/dimen_10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_12sp"/>
+
+
+            <TextView
+                android:id="@+id/tv_detype"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_2dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_14sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="@dimen/dimen_8dp"
+            android:background="#3c92ca"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/project_progress_msg"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="@dimen/dimen_4dp"
+                android:paddingBottom="@dimen/dimen_4dp"
+                android:paddingRight="@dimen/dimen_8dp"
+                android:paddingLeft="@dimen/dimen_8dp"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:background="@drawable/rect_corner_trans"
+                android:textColor="@color/white"
+                android:text="@string/project_official"/>
+
+            <TextView
+                android:id="@+id/tv_project_msg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/dimen_10dp"
+                android:lines="1"
+                android:ellipsize="end"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_12sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_10dp"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/tv_cart"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/project_cart"
+                android:gravity="center"
+                android:drawableTop="@mipmap/project_progress_cart"
+                android:drawablePadding="@dimen/dimen_10dp"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+            <TextView
+                android:id="@+id/tv_dlist"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/project_dlist"
+                android:gravity="center"
+                android:drawableTop="@mipmap/project_progress_dlist"
+                android:drawablePadding="@dimen/dimen_10dp"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+            <RelativeLayout
+                android:id="@+id/tv_days_layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/tv_days_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/project_days"
+                    android:layout_centerHorizontal="true"
+                    android:drawableTop="@mipmap/project_progress_days"
+                    android:drawablePadding="@dimen/dimen_10dp"
+                    android:textColor="@color/colorGrey"
+                    android:textSize="@dimen/font_16sp"/>
+
+                <TextView
+                    android:id="@+id/tv_days"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignTop="@+id/tv_days_text"
+                    android:layout_marginTop="@dimen/dimen_4dp"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/font_16sp"/>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_video"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawableTop="@mipmap/project_progress_video"
+                android:drawablePadding="@dimen/dimen_10dp"
+                android:text="@string/project_video"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1px"
+            android:background="@drawable/line"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_10dp"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/tv_designer1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_corner_reset_bg"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/project_designer1"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+            <TextView
+                android:id="@+id/tv_designer2"
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_corner_reset_bg"
+                android:padding="@dimen/dimen_8dp"
+                android:layout_marginLeft="@dimen/dimen_16dp"
+                android:layout_marginRight="@dimen/dimen_16dp"
+                android:text="@string/project_designer2"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+
+            <TextView
+                android:id="@+id/tv_designer3"
+                style="@style/TextButtonBg"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_corner_reset_bg"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/project_designer3"
+                android:gravity="center"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_16sp"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_project_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/project_progress_down"
+            android:layout_marginBottom="@dimen/dimen_4dp"
+            android:layout_gravity="center"/>
+
+        <LinearLayout
+            android:id="@+id/step_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"/>
+
+
+    </LinearLayout>
+</ScrollView>

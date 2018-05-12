@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_light_grey"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@drawable/line"
+        android:dividerHeight="1px"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:listSelector="?selectableItemBackground" />
+
+
+    <TextView
+        android:id="@+id/show_bot"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:textColor="@color/colorBlue"
+        android:textSize="@dimen/font_14sp"
+        android:gravity="center"
+        android:text="投诉须知"
+        />
+</LinearLayout>

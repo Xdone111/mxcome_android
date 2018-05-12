@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:text="百科"
+            android:textColor="@color/tab_text_color"
+            android:textSize="@dimen/font_14sp" />
+
+        <!--   <RadioButton
+               android:id="@+id/radio2"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:textSize="@dimen/font_14sp"
+               android:textColor="@color/tab_text_color"
+               android:text="话题"
+               android:gravity="center"
+               android:padding="@dimen/dimen_10dp"
+               android:button="@null"/>-->
+
+        <RadioButton
+            android:id="@+id/radio3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10dp"
+            android:text="媒体"
+            android:textColor="@color/tab_text_color"
+            android:textSize="@dimen/font_14sp" />
+
+        <!-- <RadioButton
+             android:id="@+id/radio4"
+             android:layout_width="0dp"
+             android:layout_height="wrap_content"
+             android:layout_weight="1"
+             android:textSize="@dimen/font_14sp"
+             android:textColor="@color/tab_text_color"
+             android:text="杂志"
+             android:gravity="center"
+             android:padding="@dimen/dimen_10dp"
+             android:button="@null"/>-->
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_2dp"
+        android:background="@color/white">
+
+    <com.zss.library.indicator.UnderlinePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_2dp"
+        app:fades="false"
+        app:selectedColor="@color/colorBlue" />
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

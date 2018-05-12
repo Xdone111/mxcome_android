@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/tip_error_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorRed"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/error_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/dongjie_img"
+            android:drawablePadding="@dimen/dimen_6dp"
+            android:gravity="center"
+            android:padding="@dimen/dimen_8dp"
+            android:text="请输入正确的手机号码"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dimen_8dp"
+        android:layout_marginLeft="@dimen/dimen_14dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:text="请输入您要解冻的账号"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_14dp"
+            android:gravity="center"
+            android:text="账号"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_16sp" />
+
+        <EditText
+            android:id="@+id/user_et"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_30dp"
+            android:layout_weight="1"
+            android:background="@color/trans"
+            android:gravity="center_vertical"
+            android:hint="请输入账号"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textColor="@color/colorGrey"
+            android:textColorHint="@color/txt_hint_color"
+            android:textSize="@dimen/font_16sp" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@drawable/line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_14dp"
+            android:gravity="center"
+            android:text="手机"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_16sp" />
+
+        <EditText
+            android:id="@+id/phone_et"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_30dp"
+            android:layout_weight="1"
+            android:background="@color/trans"
+            android:gravity="center_vertical"
+            android:hint="填入注册所用的手机号"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textColor="@color/colorGrey"
+            android:textColorHint="@color/txt_hint_color"
+            android:textSize="@dimen/font_16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen_10dp"
+            android:background="@drawable/corner_normal_selector"
+            android:paddingBottom="@dimen/dimen_4dp"
+            android:paddingLeft="@dimen/dimen_8dp"
+            android:paddingRight="@dimen/dimen_8dp"
+            android:paddingTop="@dimen/dimen_4dp"
+            android:text="获取验证码"
+            android:textColor="@color/colorBlue"
+            android:textSize="@dimen/font_12sp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@drawable/line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_14dp"
+            android:gravity="center"
+            android:text="验证"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_16sp" />
+
+        <EditText
+            android:id="@+id/code_et"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/dimen_30dp"
+            android:layout_weight="1"
+            android:background="@color/trans"
+            android:gravity="center_vertical"
+            android:hint="60s后尝试重新获取"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textColor="@color/colorGrey"
+            android:textColorHint="@color/txt_hint_color"
+            android:textSize="@dimen/font_16sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_40dp"
+        android:layout_marginLeft="@dimen/dimen_30dp"
+        android:layout_marginRight="@dimen/dimen_30dp"
+        android:layout_marginTop="@dimen/dimen_30dp"
+        android:background="@drawable/corner_btn_normal_msg"
+        android:gravity="center"
+        android:text="下一步"
+        android:textColor="@color/colorGrey"
+        android:textSize="@dimen/font_16sp" />
+</LinearLayout>

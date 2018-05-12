@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_52dp"
+    android:background="@color/msg_grey_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <GridView
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_14dp"
+            android:layout_marginRight="@dimen/dimen_14dp"
+            android:layout_marginTop="20dp"
+            android:horizontalSpacing="@dimen/dimen_16dp"
+            android:listSelector="?selectableItemBackground"
+            android:numColumns="3"
+            android:layout_marginBottom="@dimen/dimen_16dp"
+            android:verticalSpacing="@dimen/dimen_16dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/show_list"
+        android:paddingTop="@dimen/dimen_10dp"
+        android:paddingBottom="@dimen/dimen_10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/trans"
+        android:scrollbars="none"
+        android:background="@color/msg_grey_bg"
+        android:dividerHeight="8dp">
+
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="650dp"
+        android:layout_height="650dp"
+        android:layout_marginLeft="-375dp">
+
+        <View
+            android:layout_width="650dp"
+            android:layout_height="650dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_blue3" />
+
+        <View
+            android:layout_width="510dp"
+            android:layout_height="510dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_blue2" />
+
+        <View
+            android:layout_width="365dp"
+            android:layout_height="365dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@drawable/corner_shape_white" />
+
+    </FrameLayout>
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item1"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/title_item2"
+        android:layout_marginBottom="@dimen/dimen_20dp"
+        android:layout_marginLeft="45dp" />
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item2"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/show_item"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp" />
+
+    <LinearLayout
+        android:id="@+id/show_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <com.fenazola.mxcome.widget.ChoiceItemLayout
+            android:id="@+id/title_item3"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/show_item"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="122dp"
+            android:layout_marginTop="20dp" />
+
+        <com.fenazola.mxcome.widget.ChoiceItemLayout
+            android:id="@+id/title_item4"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="122dp"
+            android:layout_marginTop="20dp" />
+    </LinearLayout>
+
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item5"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/show_item"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp" />
+
+    <com.fenazola.mxcome.widget.ChoiceItemLayout
+        android:id="@+id/title_item6"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_item5"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="20dp" />
+
+    <!--<com.fenazola.mxcome.widget.ChoiceItemLayout-->
+    <!--android:id="@+id/title_item7"-->
+    <!--android:layout_width="75dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@+id/title_item6"-->
+    <!--android:layout_marginLeft="20dp" />-->
+
+
+    <TextView
+        android:id="@+id/choice_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title_item1"
+        android:layout_marginLeft="45dp"
+        android:layout_toRightOf="@+id/title_item1"
+        android:text="选择"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/choice_item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title_item2"
+        android:layout_marginLeft="35dp"
+        android:layout_toRightOf="@+id/title_item2"
+        android:text="选择"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/show_item"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/choice_item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/title_item3"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/title_item3"
+            android:layout_marginBottom="@dimen/dimen_20dp"
+            android:text="选择"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+
+        <TextView
+            android:id="@+id/choice_item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/title_item4"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="@dimen/dimen_20dp"
+            android:layout_toRightOf="@+id/title_item4"
+            android:text="选择"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_14sp" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/choice_item5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/title_item5"
+        android:layout_marginLeft="35dp"
+        android:layout_toRightOf="@+id/title_item5"
+        android:text="选择"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+
+    <TextView
+        android:id="@+id/choice_item6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/title_item6"
+        android:layout_marginLeft="45dp"
+        android:layout_toRightOf="@+id/title_item6"
+        android:text="选择"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14sp" />
+
+    <!--<TextView-->
+    <!--android:id="@+id/choice_item7"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignTop="@+id/title_item7"-->
+    <!--android:layout_marginLeft="85dp"-->
+    <!--android:layout_toRightOf="@+id/title_item7"-->
+    <!--android:text="选择"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="@dimen/font_14sp" />-->
+</RelativeLayout>

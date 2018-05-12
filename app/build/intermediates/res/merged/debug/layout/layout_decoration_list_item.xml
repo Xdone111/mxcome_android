@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="78dp"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="@dimen/dimen_10dp">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="@dimen/dimen_10dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="yyyy-MM-dd"
+            android:textColor="@color/colorGrey"
+            android:textSize="@dimen/font_12sp" />
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_marginTop="@dimen/dimen_2dp"
+            android:layout_marginBottom="@dimen/dimen_2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="商品房交易注意事项"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_14sp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_look"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18.2万"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:drawableLeft="@mipmap/resu_look_ico"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+            <TextView
+                android:id="@+id/tv_coll"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1888"
+                android:layout_marginLeft="@dimen/dimen_8dp"
+                android:drawablePadding="@dimen/dimen_4dp"
+                android:drawableLeft="@mipmap/cellege_ico"
+                android:textColor="@color/colorGrey"
+                android:textSize="@dimen/font_13sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:src="@mipmap/ic_launcher" />
+
+
+</LinearLayout>
