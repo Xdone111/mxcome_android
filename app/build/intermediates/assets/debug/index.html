@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>服务条款</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var rem = document.documentElement.clientWidth * 20 / 320;
+            window.onresize = function () {
+                rem = document.documentElement.clientWidth * 20 / 320;
+                document.documentElement.style.fontSize = rem + 'px';
+            };
+            document.documentElement.style.fontSize = rem + 'px';
+        }, false);
+    </script>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        html,body{
+            width:100%;
+            height:100%;
+            font-family: Microsoft Yahei;
+        }
+        #service div.box_1{
+            width:100%;
+            background-color: #f3f3f3;
+            text-align: center;
+            padding:0.5rem;
+            box-sizing: border-box;
+        }
+        #service div.box_1 p{
+            font-size: 0.8rem;
+            color:#8e8d92;
+        }
+        #service div.box_2{
+            padding:1rem 0.8rem;
+        }
+        #service div.box_2 p.title{
+            font-size: 0.9rem;
+            margin-bottom:0.9rem;
+        }
+        #service div.box_2 p{
+            color:#000;
+            font-size: 0.8rem;
+            line-height: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+<div id="service">
+    <div class="box_1">
+        <p>MXCOME 服务条款</p>
+    </div>
+    <div class="box_2">
+        <p class="title">一.免费条款</p>
+        <p>欢迎使用MXCOME ！任何使用MXCOME的服务，您应当阅读并遵守《MXCOME 服务协议》(以下简称“本协议”)请您务必审慎阅读，充分理解各条款内容，特别是免除或者限制责任的条款、管辖与法律适用条款，以及开通或使用某项服务的单独协议。</p>
+    </div>
+</div>
+</body>
+</html>

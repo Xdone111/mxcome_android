@@ -1,0 +1,158 @@
+/*总体样式*/
+html, body{
+  width:100%;
+  height: 100%;
+  margin: 0 auto;
+  font-size: 14px;
+  font-family: "微软雅黑";
+}
+#cust-service{
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+/*头部*/
+#cust-service .service-header{
+  width: 100%;
+}
+#cust-service .ad{
+	height: 100%;
+	width: 100%;
+}
+#cust-service .service-adver{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+/*内容*/
+#cust-service .service-content div.notice{
+	padding:5px 0 5px 15px;
+	background-color: #e7f5ff;
+}
+#cust-service .service-content div.notice img{
+	vertical-align: middle;
+	width:1.4rem;
+	margin-right:4px;
+}
+#cust-service .service-content div.notice>span{
+	background-color: #4bb7fd;
+	color:#fff;
+	display: inline-block;
+	padding:0 3px;
+	font-size: 0.8rem;
+	line-height: 1.3rem;
+	margin-right:4px;
+}
+#cust-service .service-content div.notice>a{
+	color: #4bb7fd;
+}
+#cust-service .service-content p{
+	font-size: 0.7857rem;
+	color: #8e8d92;
+}
+#cust-service .main-content{
+	padding: 30px;
+}
+/*每一行的盒子*/
+#cust-service .con-row1{
+	display: -webkit-box;
+	display: -moz-box;
+}
+/*第一行菜单下的文字盒子*/
+#cust-service .row1-undername{
+	display: -webkit-box;
+	margin-bottom: 5px;
+}
+#cust-service .row1-undername p{
+	display: inline;
+}
+/*图片+文字盒子*/
+#cust-service .row1-imgcon{
+	padding-top: 10px;
+}
+#cust-service .row1-imgcon p{
+	margin-bottom: 5px;
+}
+/*图片外的圆圈盒子*/
+#cust-service .img-rou{
+
+	border-radius: 40px;
+	display: block;
+	width: 60px;
+	height: 60px;
+	margin: 0 auto;
+}
+#cust-service .img-rou img{
+	padding-top: 17px;
+	width:2.8rem;
+}
+/*设置平分*/
+#cust-service .one-flex{
+	-moz-box-flex: 1.0;
+	-webkit-box-flex: 1.0;
+	text-align: center;
+}
+/*虚线盒子*/
+#cust-service .row1-ciren{
+	line-height: 77px;
+	text-align: center;
+}
+/*竖虚线盒子*/
+#cust-service .line-cir{
+	height: 34px;
+	margin-bottom: -15px;
+}
+/*图片间虚线盒子*/
+#cust-service .contact-cir{
+	width: 18px;
+}
+#cust-service .line-cir .contact-cir{
+	transform: rotate(90deg);
+}
+/*虚线平分*/
+#cust-service .two-flex1{
+  -webkit-box-flex: 8;
+  -moz-box-flex: 8;
+  box-flex: 8;
+}
+#cust-service .two-flex2{
+  -webkit-box-flex: 0.9;
+  -moz-box-flex: 0.9;
+  box-flex: 0.9;
+}
+#cust-service .three-flex1{
+  -webkit-box-flex: 0.9;
+  -moz-box-flex: 0.9;
+  box-flex: 0.9;
+}
+#cust-service .three-flex2{
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+}
+#cust-service .three-flex3{
+  -webkit-box-flex: 7;
+  -moz-box-flex: 7;
+  box-flex: 7;
+}
+
+/*底部*/
+#cust-service .service-footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: #F3F3F3;
+}
+#cust-service .footer-write{
+	font-size: 1.0rem;
+	color: #8e8d92;
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+}
